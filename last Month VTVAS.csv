@@ -1,0 +1,169 @@
+issue_type,issue_key,Issue id,summary,status,created_date,assignee
+Bug,VTVAS-11689,1849161,Unable to confirm channel lock changes after navigating back from 'Confirm'/'Cancel' Tab,Awaiting Triage,28/Jun/24 6:43 PM,filipe.rebelo@vodafone.com
+Bug,VTVAS-11688,1849133,CLONE - [Player][MCAST] Trickmode (pause/rewind) leads to player error SAV1835,Awaiting Triage,28/Jun/24 5:37 PM,deepika.thakkar@vodafone.com
+Bug,VTVAS-11687,1848982,Zapping banner doesn't appear when tuning to Live TV from Vod playback.,Awaiting Triage,01/Jul/24 8:54 AM,ankit.singh1@vodafone.com
+Bug,VTVAS-11685,1848665,CLU not invoking for some catchup events of some channels.,Awaiting Triage,28/Jun/24 10:23 AM,aditi.borkar@vodafone.com
+Bug,VTVAS-11684,1848624,[EPG] EPG grid displays 'Locked' instead of event title for age-restricted content.,Awaiting Triage,28/Jun/24 2:38 PM,prasenjit.sinha@vodafone.com
+Bug,VTVAS-11683,1848500,Episode title displayed in Recordings PI in Offline mode,Awaiting Triage,28/Jun/24 5:41 PM,filipe.guerra@vodafone.com
+Bug,VTVAS-11682,1848465,RE rails in OnDemand do not show the best episode (with opt in),Awaiting Triage,28/Jun/24 9:52 AM,michaela.rytirova@vodafone.com
+Bug,VTVAS-11680,1848289,[Opt Out] Recommendations rails are not populated when the populateWhenOptedOut is set to false in the GetMenu,Awaiting Triage,28/Jun/24 1:16 PM,pushkar.shamkantkulkarni@vodafone.com
+Bug,VTVAS-11679,1848271,Underconstruction,Closed,27/Jun/24 2:58 PM,deepika.thakkar@vodafone.com
+Bug,VTVAS-11678,1848255,Locked folder on My Home page is not created for adult contents.,Awaiting Triage,28/Jun/24 2:41 PM,rajvardhan.chouhan@vodafone.com
+Bug,VTVAS-11677,1848241,Playback fails to resume when box goes to online mode.,Awaiting Triage,28/Jun/24 2:41 PM,siddharth.jamankar@vodafone.com
+Bug,VTVAS-11676,1848150,[Standby]Launcher remains stuck on checking for update screen.,Awaiting Triage,01/Jul/24 9:05 AM,deepika.thakkar@vodafone.com
+Bug,VTVAS-11674,1847979,[VFDE PRD] Immediate upgrade with service interruption R32.2.2 to R37 when exiting STDBY with RCU,Open,28/Jun/24 2:15 PM,ermin.sekeric@vodafone.com
+Bug,VTVAS-11671,1847360,Disney Application Exited to Live while navigating to a content on Disney Home Page,Awaiting Triage,26/Jun/24 3:55 PM,diwakar.amboji@vodafone.com
+Bug,VTVAS-11670,1847303,Opal Crash if backend configuration is set to both DTT and DVBC,Awaiting Triage,26/Jun/24 12:34 PM,ilyes.ouled-omar-ext@sagemcom.com
+Bug,VTVAS-11669,1847217,[NAS] PI page fails to auto dismiss while selecting the 'Watch' button.,Awaiting Triage,28/Jun/24 2:40 PM,siddharth.jamankar@vodafone.com
+Bug,VTVAS-11668,1847143,Zapping Banner does not load after standby wakeup,Awaiting Triage,28/Jun/24 8:33 AM,aditi.borkar@vodafone.com
+Bug,VTVAS-11667,1847132,[NAS] SAV1835 error displaying when entering the valid PIN.,Awaiting Triage,26/Jun/24 4:19 PM,siddharth.jamankar@vodafone.com
+Bug,VTVAS-11666,1847084,[Player] The frozen screen was observed on the playback for channel 32 (B TV).,Under Analysis,28/Jun/24 1:02 PM,prasenjit.sinha@vodafone.com
+Bug,VTVAS-11664,1846935,[NAS] Adult content playback resumes while user navigating back from 3rd Party application.,Awaiting Triage,28/Jun/24 2:40 PM,siddharth.jamankar@vodafone.com
+Bug,VTVAS-11663,1846699,[DVBC] Video frame of last tuned channel presented when switching between Radio services,Awaiting Triage,25/Jun/24 1:36 PM,matthias.jatho@vodafone.com
+Bug,VTVAS-11662,1846379,Play badge is not displayed in SVOD series entitled episodes cards in PI season rail,Awaiting Triage,28/Jun/24 5:51 PM,filipe.guerra@vodafone.com
+Bug,VTVAS-11660,1846332,"[Maintenance] After the Maintenance, STB reboots but doesn't exit standby",Awaiting Triage,28/Jun/24 10:31 AM,andreia.sobreira@vodafone.com
+Bug,VTVAS-11659,1846280,"[GEN3] [Recordings] Recorded episodes in ""Otros"" section can't be played",Vendor Requires More Info,26/Jun/24 3:00 PM,vasco.mota@vodafone.com
+Bug,VTVAS-11658,1846249,[STABILITY] Youtube App launched instead of Live TV after wakeup up from standby.,Awaiting Triage,25/Jun/24 1:07 PM,shreyas.kale@vodafone.com
+Bug,VTVAS-11654,1845984,Search focus is lost on TLM after navigating search PI,Awaiting Triage,24/Jun/24 5:23 PM,joao.morais3@vodafone.com
+Bug,VTVAS-11653,1845965,Sometimes Disney content playback freezes when playback is initiated.,Awaiting Triage,27/Jun/24 12:59 PM,diwakar.amboji@vodafone.com
+Bug,VTVAS-11652,1845942,[Stability]Sometimes something went wrong error message shows up on playing any content on Amazon prime.,Awaiting Triage,26/Jun/24 11:11 AM,shreyas.kale@vodafone.com
+Bug,VTVAS-11650,1845869,Age rating is not retained after electrical reboot,Open,28/Jun/24 4:09 PM,ana.rotaru1@vodafone.com
+Bug,VTVAS-11649,1845790,Intermittently progress bar does not show up after pausing a start-over event.,Awaiting Triage,26/Jun/24 12:48 PM,sumati.deshmukh@vodafone.com
+Bug,VTVAS-11648,1845576,Scheduled recordings are seen in All recordings filter,Awaiting Triage,28/Jun/24 5:02 PM,shekhar.waghmode@vodafone.com
+Bug,VTVAS-11646,1845441,[Stability] Maintenance process overlaps with the launcher reboot when user wakes-up the STB after long run.,Awaiting Triage,26/Jun/24 1:55 PM,deepika.thakkar@vodafone.com
+Bug,VTVAS-11645,1845412,Error SAV1813 and blackscreen after specific VOD content ends,Awaiting Triage,24/Jun/24 12:07 PM,joao.morais3@vodafone.com
+Bug,VTVAS-11644,1845391,"Using assistant to tune different channels during some time, black screen appears and audio is in loop",Awaiting Triage,24/Jun/24 11:50 AM,tiago.bastos@wit-software.com
+Bug,VTVAS-11639,1844583,[Recommendations][OPT-Out] With user Opt-out some of the recommendation rails are displayed in On Demand Assets,Awaiting Triage,28/Jun/24 11:39 AM,francisco.rodrigues2@vodafone.com
+Bug,VTVAS-11638,1844561,GEN3 - Blackscreen after zapping through unsubscribed channels,Awaiting Triage,24/Jun/24 3:34 PM,vasco.mota@vodafone.com
+Bug,VTVAS-11637,1844531,[Channels w/associated folder] GEN3 - Red button to access content folder doesn't work from CLU,Awaiting Triage,21/Jun/24 5:02 PM,manuel.pena@vodafone.com
+Bug,VTVAS-11635,1844263,Missing 3PA providers on some series PI,Awaiting Triage,26/Jun/24 8:34 PM,filipe.guerra@vodafone.com
+Bug,VTVAS-11634,1843923,The text indicating the Live point is not translated after changing the system language,Awaiting Triage,21/Jun/24 10:13 AM,eperez40@corp.vodafone.es
+Bug,VTVAS-11633,1843881,Up Next is not working when moving from one season to the next,Awaiting Triage,20/Jun/24 7:09 PM,eperez40@corp.vodafone.es
+Bug,VTVAS-11632,1843828,[VFIE][NMNT] Error SAV1853 during maintenance window,Awaiting Triage,27/Jun/24 2:40 PM,rodrigo.ferreira@vodafone.com
+Bug,VTVAS-11629,1843711,Intermittently unable to play YouTube content. ,Awaiting Triage,24/Jun/24 4:18 PM,aditi.borkar@vodafone.com
+Bug,VTVAS-11628,1843646,Inconsistent behavior when transitioning from adult VOD playback to locked live channel,Awaiting Triage,24/Jun/24 2:25 PM,prem.prakash2@vodafone.com
+Bug,VTVAS-11627,1843642,Inexisting Channel numbers from ranges with no channels can be dialed with the RCU,RESOLVED,26/Jun/24 3:46 PM,filipe.guerra@vodafone.com
+Bug,VTVAS-11626,1843611,[Player][MCAST] - Lipsync delay between image and audio,Open,27/Jun/24 1:42 PM,deepika.thakkar@vodafone.com
+Bug,VTVAS-11625,1843559,[Data Collection][System Event] - ACTTY and ACTN fields are empty on performing Electrical reboot.,Awaiting Triage,21/Jun/24 11:31 AM,priti.babantimande@vodafone.com
+Bug,VTVAS-11623,1843466,[RDM][Multiple Profile] Ondemand upgrade + Maintenance triggered outside the defined DMS window.,Under Analysis,25/Jun/24 9:40 AM,deepika.thakkar@vodafone.com
+Bug,VTVAS-11622,1843312,Netflix app launched when user changes parental rating during adult VOD playback.,Awaiting Triage,26/Jun/24 8:48 PM,prem.prakash2@vodafone.com
+Bug,VTVAS-11620,1843264,Future events content get disappears from the CLU after open the pi page and press back key.,Awaiting Triage,28/Jun/24 6:12 PM,pushkar.shamkantkulkarni@vodafone.com
+Bug,VTVAS-11619,1843261,[3rd Party] The playback on YouTube is affected when the audio output is switched to HDMI.,Awaiting Triage,26/Jun/24 8:46 PM,prasenjit.sinha@vodafone.com
+Bug,VTVAS-11618,1843229,Audio missing on some DTT channels on a specific box,Awaiting Triage,21/Jun/24 3:30 PM,sumati.deshmukh@vodafone.com
+Bug,VTVAS-11617,1843102,Live is not tuned back after Transition to Live notification countdown ends,RESOLVED,27/Jun/24 5:50 PM,filipe.guerra@vodafone.com
+Bug,VTVAS-11616,1843067,[VFIE] Audio is not available on channel: TLC(118),Awaiting Triage,19/Jun/24 4:41 PM,vikas.yadav2@vodafone.com
+Bug,VTVAS-11615,1843065,[Player] Fast zapping causes multiple channel tunings one after the other before ending at the desired channel,Closed,21/Jun/24 5:36 PM,hugo.pereira9@vodafone.com
+Bug,VTVAS-11614,1842988,RCU_Exit has wrong behavior in My TV and OnDemand,RESOLVED,27/Jun/24 5:50 PM,francisco.rodrigues2@vodafone.com
+Bug,VTVAS-11613,1842943,Intermittently pin prompt keeps blinking on live after standby wakeup,Awaiting Triage,24/Jun/24 5:41 PM,ankit.singh1@vodafone.com
+Bug,VTVAS-11612,1842931,"Sometimes while navigating in Netflix ""We are having trouble accessing titles"" error message is seen",Awaiting Triage,26/Jun/24 11:16 AM,diwakar.amboji@vodafone.com
+Bug,VTVAS-11611,1842907,Sometimes Amazon content playback freezes when playback is initiated.,Awaiting Triage,28/Jun/24 8:08 AM,diwakar.amboji@vodafone.com
+Bug,VTVAS-11610,1842849,[Settings] Navigation focus is incorrect after a language change and navigating back via RCU <Back> Key,Awaiting Triage,21/Jun/24 8:57 AM,bjitheesh.kumar@vodafone.com
+Bug,VTVAS-11605,1842804,Transport bar not displayed and playback paused when using Replay in first seconds of playback,Awaiting Triage,28/Jun/24 12:56 PM,filipe.guerra@vodafone.com
+Bug,VTVAS-11593,1842383,"Purchase badge is displayed on EPG, CLU, TLM for all the content.",Awaiting Triage,19/Jun/24 2:59 PM,rajvardhan.chouhan@vodafone.com
+Bug,VTVAS-11592,1842285,Playback does not resume after pressing Menu key over a rewinding stream,RESOLVED,28/Jun/24 5:56 PM,filipe.guerra@vodafone.com
+Bug,VTVAS-11591,1842243,Inconsistent of Exit key behaviour. ,RESOLVED,27/Jun/24 5:50 PM,prasenjit.sinha@vodafone.com
+Bug,VTVAS-11590,1842113,PIN entry screen doesn't appear on CLU for locked deeplink channel,Awaiting Triage,26/Jun/24 12:00 PM,swaroop.patil@vodafone.com
+Bug,VTVAS-11588,1841970,Remaining time value in Mini PI and PI show discrepancies in restarted content,Awaiting Triage,19/Jun/24 5:43 PM,eperez40@corp.vodafone.es
+Bug,VTVAS-11587,1841554,[GEN3][CEC] CEC power on/power off functionalities not working in 32.3 when they worked in 30.3,Under Analysis,26/Jun/24 3:26 PM,manuel.pena@vodafone.com
+Bug,VTVAS-11586,1841527,Series PI does not open on lowest season lowest episode when Privacy is Opt-out,Awaiting Triage,28/Jun/24 5:19 PM,filipe.guerra@vodafone.com
+Bug,VTVAS-11585,1841509,[DataCollection][Behavioral Data] Transport Control event for Start over of live and catchup events is not triggered.,Awaiting Triage,19/Jun/24 4:58 PM,siddharth.jamankar@vodafone.com
+Bug,VTVAS-11583,1841438,"[UI] The Back navigation path skipped the Menu, and the focus directly lands on the live playback.",Awaiting Triage,25/Jun/24 8:28 AM,prasenjit.sinha@vodafone.com
+Bug,VTVAS-11582,1841298,TLM is not being translated when device is in offline mode,Awaiting Triage,26/Jun/24 4:35 PM,eperez40@corp.vodafone.es
+Bug,VTVAS-11580,1841253,"When consent changes from ""disagreed"" to ""agree"" brief streaming of adult playback is displayed",Awaiting Triage,24/Jun/24 2:22 PM,prem.prakash2@vodafone.com
+Bug,VTVAS-11579,1841229,[Google Assistant] Google Assistant screen was launched automatically without any RCU command.,RESOLVED,26/Jun/24 11:42 AM,prasenjit.sinha@vodafone.com
+Bug,VTVAS-11578,1841221,"When consent changes from ""disagreed"" to ""agree,"" related rails are displayed for a moment and then disappeared for adult/non adult contents",Awaiting Triage,21/Jun/24 1:49 PM,prem.prakash2@vodafone.com
+Bug,VTVAS-11577,1841203,The subtitle icon is not displayed in the PI,Awaiting Triage,19/Jun/24 4:45 PM,filipe.guerra@vodafone.com
+Bug,VTVAS-11575,1841140,"[Standby] After waking up from standby, STB spontaneously shuts down after 15 min of use",RESOLVED,21/Jun/24 2:15 PM,manuel.pena@vodafone.com
+Bug,VTVAS-11574,1841114,[Player] [PT Prod] No AV and black screen was displayed for the channel 165 (Rai News).,RESOLVED,27/Jun/24 10:53 AM,prasenjit.sinha@vodafone.com
+Bug,VTVAS-11571,1840907,"Unable to resume content when RWD & use continuous rewind, after returning to live from ongoing recording",RESOLVED,27/Jun/24 5:50 PM,filipe.rebelo@vodafone.com
+Bug,VTVAS-11567,1840823,"[SEARCH] GEN3 - Text search doesn't show results (Voice search OK, text search KO)",Awaiting Triage,19/Jun/24 5:16 PM,manuel.pena@vodafone.com
+Bug,VTVAS-11566,1840821,"[NAS] Adult channels are shown in the ""Tuned Now"" in the 'My Home' main rail.",Open,28/Jun/24 3:39 PM,vikas.yadav2@vodafone.com
+Bug,VTVAS-11565,1840444,Audio is heard during channel scan if user launches and navigates back from Netflix,RESOLVED,28/Jun/24 5:54 PM,omkar.patil4@vodafone.com
+Bug,VTVAS-11564,1840412,"PI page ,Rails element position changed compared to R36",Awaiting Triage,27/Jun/24 11:45 AM,shreyas.kale@vodafone.com
+Bug,VTVAS-11563,1840380,Live channel Event images are missing from several contents,MORE INFO NEEDED,25/Jun/24 11:20 AM,vasileios.koumpas.external@capgemini.com
+Bug,VTVAS-11562,1840351,Box boots up with incorrect flow,Awaiting Triage,19/Jun/24 4:33 PM,swaroop.patil@vodafone.com
+Bug,VTVAS-11561,1840346,[Parental Control] Recording/Catchup stops playback on enabling the Parental control.,Open,28/Jun/24 6:29 PM,priti.babantimande@vodafone.com
+Bug,VTVAS-11560,1840342,[Audio] Audio is heard after a few second of standby,Awaiting Triage,28/Jun/24 10:17 PM,dinu.d@vodafone.com
+Bug,VTVAS-11559,1840329,[Stability] The launcher crashed when the user navigated on the TLM after power On the box.,Awaiting Triage,24/Jun/24 5:26 PM,tarkeshwer.yadav@vodafone.com
+Bug,VTVAS-11558,1840305,Unable to exit recording player screen using RCU back key  ,RESOLVED,28/Jun/24 1:15 PM,praveenkumar.singh2@vodafone.com
+Bug,VTVAS-11556,1840167,[APPS] Navigation focus is not moving to Browse All option.,Open,27/Jun/24 7:21 PM,karpagaraj.m@vodafone.com
+Bug,VTVAS-11555,1840058,[Parental Control] PIN is requested twice to unlock the last tuned locked channel after standby wakeup.,Open,25/Jun/24 10:40 AM,vikas.yadav2@vodafone.com
+Bug,VTVAS-11554,1839925,"[MyTV] Explanatory card inside the ""Wishlist"" goes to the On Demand section instead of going to the Media Library (Mediatheken)",Awaiting Triage,13/Jun/24 7:08 PM,hugo.pereira9@vodafone.com
+Bug,VTVAS-11553,1839921,"[MyTV] Text explaining the feature ""Wishlist"" in German is chopped",Awaiting Triage,13/Jun/24 7:08 PM,hugo.pereira9@vodafone.com
+Bug,VTVAS-11551,1839871,Audio of playing non-live events is muted when behind a solid background,Closed,20/Jun/24 2:08 PM,filipe.guerra@vodafone.com
+Bug,VTVAS-11550,1838517,RCU back key invokes PIN entry screen,Open,27/Jun/24 4:52 PM,swaroop.patil@vodafone.com
+Bug,VTVAS-11549,1838516,[OTT] SAV1812 appears with no LIVE playback after rebooting the box from standby state,Open,28/Jun/24 5:08 PM,ankit.singh1@vodafone.com
+Bug,VTVAS-11548,1838443,Related rails not displayed in PI,Open,26/Jun/24 5:59 PM,filipe.guerra@vodafone.com
+Bug,VTVAS-11547,1838410,Channel lineup is displayed on adult VOD playback,MORE INFO NEEDED,24/Jun/24 2:21 PM,prem.prakash2@vodafone.com
+Bug,VTVAS-11546,1838271,Wishlist rail display same asset more than once,RESOLVED,27/Jun/24 4:57 PM,vasileios.koumpas.external@capgemini.com
+Bug,VTVAS-11545,1838244,[DeepLinking] User is not redirected to the deep linked folder for locked channel when navigated through CLU ,Open,27/Jun/24 4:57 PM,swaroop.patil@vodafone.com
+Bug,VTVAS-11544,1838233,[VFDE] [HDMI-CEC] GEN3 volume control settings lost after deep standby or maintenance,MORE INFO NEEDED,27/Jun/24 2:58 PM,georgia.tsormpatzoglou@vodafone.com
+Bug,VTVAS-11543,1838185,Upgrade process is only triggered from Settings (manually),Awaiting Triage,26/Jun/24 4:05 PM,michaela.rytirova@vodafone.com
+Bug,VTVAS-11539,1838136,[VFPT PROD] STB query parameters are not send to 3PA,MORE INFO NEEDED,19/Jun/24 10:57 AM,joao.sousa01@vodafone.com
+Bug,VTVAS-11536,1838068,[Blocker Certification] Mix Audio live and App playback after StandBy/Wake UP STB and with wake on cast,RESOLVED,27/Jun/24 5:43 PM,ilyes.ouled-omar-ext@sagemcom.com
+Bug,VTVAS-11533,1838044,Launcher start live playback while STB on standby mode,RESOLVED,27/Jun/24 5:44 PM,ilyes.ouled-omar-ext@sagemcom.com
+Bug,VTVAS-11532,1838035,“Max“ barker Channel opening APP with error message,Awaiting Triage,17/Jun/24 7:00 PM,filipe.rebelo@vodafone.com
+Bug,VTVAS-11531,1837917,[Content Filtering] 'Invalid Request' is displayed in the response of 'GET request' while opening the deep-linked content.,Awaiting Triage,13/Jun/24 5:36 PM,vikas.yadav2@vodafone.com
+Bug,VTVAS-11528,1837879,Even if channel is locked user is able to see the thumbnail of content on TLM.,Open,24/Jun/24 10:21 AM,swaroop.patil@vodafone.com
+Bug,VTVAS-11527,1837853,"[DNS Resolver] The retry attempts left displayed for multiple times, if DNS fail to resolve the lookup.",Awaiting Triage,14/Jun/24 12:28 PM,vikas.yadav2@vodafone.com
+Bug,VTVAS-11526,1837805,[DNS Resolver] IPV6 address is not completely displayed for the 'dnsserver' in RTL logs.,Awaiting Triage,12/Jun/24 3:25 PM,vikas.yadav2@vodafone.com
+Bug,VTVAS-11525,1837449,The history of the previously viewed adult channel is not being cleared using the RCU <Back> key,Vendor Requires More Info,28/Jun/24 11:43 AM,prem.prakash2@vodafone.com
+Bug,VTVAS-11524,1837431,[VFDE] - Tivo Search not returning message no results found for assets that don´t exist,Closed,14/Jun/24 11:42 AM,georgia.tsormpatzoglou@vodafone.com
+Bug,VTVAS-11523,1837347,[PI] Information on PI is different depending on point of entry,Awaiting Triage,14/Jun/24 10:09 AM,tiago.ivo@vodafone.com
+Bug,VTVAS-11522,1837305,Opening any UI Layer while watching non linear content results in muted Sound,RESOLVED,27/Jun/24 5:49 PM,francisco.rodrigues2@vodafone.com
+Bug,VTVAS-11521,1837288,"Pressing RCU_Back on PI of a related content inside a folder, returns user to incorrect asset",Awaiting Triage,17/Jun/24 6:54 PM,filipe.rebelo@vodafone.com
+Bug,VTVAS-11520,1837244,Some ondemand contents are not agreegated .,MORE INFO NEEDED,19/Jun/24 5:44 PM,omkar.patil4@vodafone.com
+Bug,VTVAS-11519,1837071,Action buttons incorrect sizing when PI is accessed from Season rails,Awaiting Triage,25/Jun/24 11:54 AM,eperez40@corp.vodafone.es
+Bug,VTVAS-11518,1837069,Degraded performance waking up from Standby on HFC device,Open,12/Jun/24 2:18 PM,filipe.guerra@vodafone.com
+Bug,VTVAS-11517,1837037,[Data Collection] - Wrong Symbol Rate information,Awaiting Triage,12/Jun/24 11:09 AM,gregorio.pampliegarodriguez@vodafone.com
+Bug,VTVAS-11516,1836929,Incorrect translation for Standby notification option Go to Standby,Awaiting Triage,25/Jun/24 4:05 PM,filipe.guerra@vodafone.com
+Bug,VTVAS-11515,1836854,Resume button is not displayed on PI for the same content when accessing from different entry points,Awaiting Triage,24/Jun/24 10:17 AM,eperez40@corp.vodafone.es
+Bug,VTVAS-11514,1836849,[IMHLN] Accessing EPG from live channel leads user to first channel (LCN 1) instead of the actually tuned one,Awaiting Triage,21/Jun/24 4:55 PM,matthias.jatho@vodafone.com
+Bug,VTVAS-11513,1836843,It takes more time to switch from adult to regular channel using Google Assistant,RESOLVED,26/Jun/24 1:17 PM,prem.prakash2@vodafone.com
+Bug,VTVAS-11512,1836819,Few OnDemand content tiles appear blank without any image ,Awaiting Triage,14/Jun/24 1:23 PM,swaroop.patil@vodafone.com
+Bug,VTVAS-11511,1836796,Best Episode is not presented after previous episode is fully watched,Open,20/Jun/24 4:22 PM,eperez40@corp.vodafone.es
+Bug,VTVAS-11510,1836709,Few apps from apps rails are unable to load after upgrade to release 37,Open,19/Jun/24 10:41 AM,swaroop.patil@vodafone.com
+Bug,VTVAS-11509,1836697,"During boot-up, box shows hard maintenance screen for fraction of sec before the launcher logo. ",In QA,17/Jun/24 3:10 PM,karpagaraj.m@vodafone.com
+Bug,VTVAS-11508,1836605,[RCU] RCU doesn't get paired anymore - both Automatic/Manual got failed and no recovery,RESOLVED,28/Jun/24 11:17 PM,prasenjit.sinha@vodafone.com
+Bug,VTVAS-11507,1836585,Search section overlaps with the player screen,Open,13/Jun/24 12:54 PM,prem.prakash2@vodafone.com
+Bug,VTVAS-11505,1836495,The PIN is not prompted after the  adult event ends and the AdultLockTimeoutMinutes expire,Open,21/Jun/24 11:37 AM,prem.prakash2@vodafone.com
+Bug,VTVAS-11504,1836438,[MCAST][ES]Client throwing SAV1851 error on all live channels on a specific ES GEN3 HW..,Awaiting Triage,25/Jun/24 1:45 PM,ankit.singh1@vodafone.com
+Bug,VTVAS-11503,1836401,[Software_Upgrade]Launcher crash observed after upgrading the box to R32.4 on navigating to settings section.,MORE INFO NEEDED,28/Jun/24 4:36 PM,priti.babantimande@vodafone.com
+Bug,VTVAS-11502,1836304,[AVSB][Audio] Dolby Digital content is signalized as PCM to audio sink (Audio output via HDMI),Vendor Requires More Info,01/Jul/24 9:21 AM,matthias.jatho@vodafone.com
+Bug,VTVAS-11500,1835611,[IMHLN] Overlapping UI and rail title truncation while browsing Paramount+ App menus,Closed,27/Jun/24 6:13 PM,matthias.jatho@vodafone.com
+Bug,VTVAS-11499,1835558,[Standby] [Audio] [Google Assistant] Mute is Retained AND The set volume level is not retained after standby wakeup using Google Assistant key.,Open,25/Jun/24 5:59 PM,prasenjit.sinha@vodafone.com
+Bug,VTVAS-11498,1835539,[Recording] SD channel does not record while HD channel does,Awaiting Triage,12/Jun/24 11:09 AM,tiago.ivo@vodafone.com
+Bug,VTVAS-11496,1835398,Users return to the first channel after watching the VOD instead of the last viewed adult channel,Closed,12/Jun/24 3:44 PM,prem.prakash2@vodafone.com
+Bug,VTVAS-11495,1835182,[VFPT] [PP] Audio description does not work after its selected in Live,Awaiting Triage,07/Jun/24 4:39 PM,mafalda.caldeira1@vodafone.com
+Bug,VTVAS-11492,1834906,"PIN is not requested on performing trick mode operations on VOD content, once the 'ParentalLockTimeout' is expired.",Awaiting Triage,19/Jun/24 6:05 PM,vikas.yadav2@vodafone.com
+Bug,VTVAS-11491,1834884,[OTT] Intermittently SAV1835 error  with No AV on playback observed while performing trick mode on Live and VOD/nPVR/StartOver/Catch up  playback,Open,28/Jun/24 9:10 AM,shreyas.kale@vodafone.com
+Bug,VTVAS-11489,1834770,[PI] Episode number shows twice on episode selector card.,RESOLVED,19/Jun/24 3:51 PM,prasenjit.sinha@vodafone.com
+Bug,VTVAS-11488,1834370,Intermittently Pin is asked after pressing OK on Live TV,MORE INFO NEEDED,25/Jun/24 12:45 PM,aditi.borkar@vodafone.com
+Bug,VTVAS-11487,1834344,[Performance] Performance evaluation on 3PA launch times,Open,26/Jun/24 7:40 PM,sainath.wakpate@vodafone.com
+Bug,VTVAS-11486,1834291,"TLM does not load completely after reboot, when the parameter autoTLMDismiss in DMS is set to 5.",MORE INFO NEEDED,28/Jun/24 6:20 PM,diwakar.amboji@vodafone.com
+Bug,VTVAS-11485,1834266,3PA are not launched pressing OK on barker channel after zapping banner is dismissed,Closed,19/Jun/24 3:19 PM,filipe.guerra@vodafone.com
+Bug,VTVAS-11484,1834240,First App launched after pressing OK on the More Bucket button in My Apps.,Closed,07/Jun/24 9:53 AM,riteshkumar.pandey@vodafone.com
+Bug,VTVAS-11482,1833524,Opening more bucket from my apps sometimes Launchs the 1st App in the grid,Closed,13/Jun/24 3:44 PM,vikas.yadav2@vodafone.com
+Bug,VTVAS-11481,1833514,[Standby] [Audio] [Google Assistant] Audio is mute after standby wakeup using Google Assistant key.,Open,20/Jun/24 7:35 PM,prasenjit.sinha@vodafone.com
+Bug,VTVAS-11480,1833491,[APPS] PIN Modal is requested on the selecting the apps available under browse all option.,Closed,13/Jun/24 3:47 PM,vikas.yadav2@vodafone.com
+Bug,VTVAS-11479,1833473,Spanish translation is missing for the Season indication on the Resume button displayed on the PI,RESOLVED,27/Jun/24 5:51 PM,eperez40@corp.vodafone.es
+Bug,VTVAS-11478,1833385,Box is shown in offline mode even if ethernet is connected,Under Analysis,28/Jun/24 3:50 PM,swaroop.patil@vodafone.com
+Bug,VTVAS-11477,1833251,[Menu][Media Library] - Collection descriptions are not displayed in Menu Main Rail,RESOLVED,27/Jun/24 5:50 PM,debora.cardoso@wit-software.com
+Bug,VTVAS-11476,1833181,"[Standby] Pressing any of the RCU key from standby mode, box glows white color LED and on TV no output, on second click no LED. ",Vendor Requires More Info,19/Jun/24 5:56 PM,karpagaraj.m@vodafone.com
+Bug,VTVAS-11473,1832961,"[Sharp start] STB does not start playback according to the ""On Air Start Time"" defined in the EPG metadata.",Open,13/Jun/24 3:58 PM,sahil.sayyed@vodafone.com
+Bug,VTVAS-11471,1832664,[VF-DE] GEN3 - Error SAV1836 high peak kibana ,RESOLVED,27/Jun/24 5:58 PM,benjamin.winkler@vodafone.com
+Bug,VTVAS-11470,1832595,[PI] More content from channel rail disappears after navigating to that rail.,Awaiting Triage,04/Jun/24 2:11 PM,rajvardhan.chouhan@vodafone.com
+Bug,VTVAS-11469,1832539,"Black screen displayed with error message ""SAV1835"" on Standby Wakeup",Awaiting Triage,13/Jun/24 2:20 PM,vasileios.koumpas.external@capgemini.com
+Bug,VTVAS-11468,1832523,[Audio] User is not able to hear the volume/mute level changes after performing standby/wake up from System settings,Awaiting Triage,28/Jun/24 10:13 PM,dinu.d@vodafone.com
+Bug,VTVAS-11467,1832521,[RCU] New UAS version 3.2.33d Integration,RESOLVED,10/Jun/24 3:17 PM,ilyes.ouled-omar-ext@sagemcom.com
+Bug,VTVAS-11465,1832293,[On Demand]Age rating disappears from metadata information after moving focus from any collection. ,Awaiting Triage,10/Jun/24 11:41 AM,rajvardhan.chouhan@vodafone.com
+Bug,VTVAS-11464,1832269,[CTS Token] CTS token request and response are incorrect on adding more than one audience,Vendor Requires More Info,18/Jun/24 3:30 PM,omkar.patil4@vodafone.com
+Bug,VTVAS-11463,1832193,[Boots] - Boot time reported incorrectly if STB not sync to NTP server,MORE INFO NEEDED,07/Jun/24 11:35 AM,gregorio.pampliegarodriguez@vodafone.com
+Bug,VTVAS-11462,1832073,[NAGRA] Last provision date/time not presented in NAGRA system information,Closed,11/Jun/24 11:43 AM,matthias.jatho@vodafone.com
+Bug,VTVAS-11461,1832063,Unable to Cancel Recorded Series (SAR1229),RESOLVED,28/Jun/24 6:14 PM,roxana.stan2@vodafone.com
+Bug,VTVAS-11460,1832050,[Search] Navigation focus gets lost after pressing the RCU D-pad down key from the search mic option.,RESOLVED,27/Jun/24 5:49 PM,karpagaraj.m@vodafone.com
+Bug,VTVAS-11459,1832036,"TLM and PI gets overlap when CLU is launched, and trailer playback ends in its background.",RESOLVED,25/Jun/24 1:40 PM,rajvardhan.chouhan@vodafone.com
+Bug,VTVAS-11458,1831781,Black screen is displayed for some seconds and TLM is launched after rewinding from Live to CU and performing start over on CU event. ,Awaiting Triage,25/Jun/24 1:43 PM,rajvardhan.chouhan@vodafone.com
+Bug,VTVAS-11457,1831695,"When a user switches from non-adult content video to adult content, the metadata of adult content is not locked",Closed,10/Jun/24 4:37 PM,prem.prakash2@vodafone.com
+Bug,VTVAS-11456,1831679,[Badging] Wrong badge indicated for non-entitled contents when browsing TV-Guide,Awaiting Triage,12/Jun/24 4:49 PM,matthias.jatho@vodafone.com
+Bug,VTVAS-11453,1831542,Expiry badge and text label not displayed in PI for Catch-up content with multiple providers,Closed,14/Jun/24 12:49 PM,filipe.guerra@vodafone.com

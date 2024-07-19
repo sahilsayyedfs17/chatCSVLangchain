@@ -1,0 +1,826 @@
+issue_type,issue_key,Issue id,summary,status,created_date,assignee
+Task,VTVQA-3242,1184256,[Mobile][S105][Android][IE][PT] - Error MG001/MG002,Open,03/Apr/24 11:38 AM,chengyang.song@vodafone.com
+Sub-task,VTVQA-2319,1086555,OTT/DVB-C transitions - S76x -> DE ,Open,03/Feb/22 4:41 PM,mohanishkumar.patil@vodafone.com
+Epic,VTVQA-4363,1329213,[Configuration] Effective Management of ATP configuration ,Open,30/Dec/21 3:01 PM,shruti.braun@vodafone.com
+Bug,VTVQA-3546,1205047,[S83] [CZ Prod] Observed Playback Error in CZ Prod on all channels,Open,07/Dec/21 12:52 PM,omkar.gaikwad1@vodafone.com
+Epic,VTVQA-6601,1778662,[DFQA] DataForge QA,Open,05/Jun/24 10:57 AM,jorgehenrique.soaresmarques@vodafone.com
+Epic,VTVQA-2806,1135644,[KMT] - Environment Monitoring Tool,In Progress,19/Apr/24 2:09 PM,jorgehenrique.soaresmarques@vodafone.com
+Epic,VTVQA-6390,1694581,[web_DMS Inspector] - Monitoring DMS (web version),Open,19/Apr/24 1:42 PM,jorgehenrique.soaresmarques@vodafone.com
+Sub-task,VTVQA-6590,1772785,STB Sprint 108 - Exploratory test around Maintenance,In Progress,15/Apr/24 12:33 PM,gaurav.suramwar@vodafone.com
+Bug,VTVQA-6616,1794409,No option to create report,Open,27/Mar/24 3:24 PM,jorgehenrique.soaresmarques@vodafone.com
+Bug,VTVQA-6615,1794406,Create report header vanished (after eciting My Reports section),Open,27/Mar/24 3:23 PM,jorgehenrique.soaresmarques@vodafone.com
+Bug,VTVQA-6611,1794398,User cannot select single/multiple entry(ies) for exporting,Open,27/Mar/24 3:21 PM,jorgehenrique.soaresmarques@vodafone.com
+Bug,VTVQA-6502,1729929,Unable to open endpoint search overlay,Open,11/Mar/24 12:29 PM,sumit.kumar53@vodafone.com
+Task,VTVQA-6511,1734945,[Radix] Migration devices from SOTA to Radix,Open,26/Feb/24 3:55 PM,jorgehenrique.soaresmarques@vodafone.com
+Sub-task,VTVQA-5578,1487405,Mobile - User based Scenarios_Exploratory Test,Open,26/Feb/24 11:36 AM,sandeep.karape@vodafone.com
+Improvement,VTVQA-3830,1256017,[security] Improve algorithm for access token retrieval (fron+backend),Open,15/Jan/24 3:29 PM,jorgehenrique.soaresmarques@vodafone.com
+Bug,VTVQA-5069,1416586,Tool stopped working (VF HW) after VF IT Security Implementation - ForcePoint network monitoring,Open,15/Jan/24 3:26 PM,jorgehenrique.soaresmarques@vodafone.com
+Sub-task,VTVQA-5147,1423854,Unable to extract the release notes with tool version 3.5.1,Open,15/Jan/24 3:26 PM,sandeep.karape@vodafone.com
+Bug,VTVQA-5496,1475134,App is crashing: not able to generate tab/document name,Open,15/Jan/24 3:26 PM,jorgehenrique.soaresmarques@vodafone.com
+Improvement,VTVQA-5510,1477927,[Robustness] Explore OCR for PDF/tickets parsing,Open,15/Jan/24 3:25 PM,jorgehenrique.soaresmarques@vodafone.com
+Improvement,VTVQA-5561,1484997,Retain historical data,Open,15/Jan/24 3:25 PM,jorgehenrique.soaresmarques@vodafone.com
+Task,VTVQA-6234,1638599,[PT PROD] Automation Check on CU,Open,19/Oct/23 3:45 PM,chengyang.song@vodafone.com
+Sub-task,VTVQA-6233,1638575,[ES PROD] [STB/VSB] Recheck for VFGTV-37838 with GBv2,Open,19/Sep/23 12:55 PM,chengyang.song@vodafone.com
+Task,VTVQA-6259,1645807,Tasks and Notes for Linux STB S105B Int. EB - 1,Open,19/Sep/23 11:54 AM,chengyang.song@vodafone.com
+Sub-task,VTVQA-6070,1601030,[STB][DE][98L/102B]Maintenance on Boot Stuck Due to Recordings,Open,30/Jun/23 1:00 PM,chengyang.song@vodafone.com
+Task,VTVQA-5868,1562863,[VTVAS][Gen3][R21.3] DVB-C testing - Master ticket,Open,16/Jun/23 9:28 AM,jorgehenrique.soaresmarques@vodafone.com
+Task,VTVQA-5944,1576587,[ES PROD] Gen0 S101 Gold Build - Box Wakeup after Long Standby (>3 days),Open,15/May/23 12:02 PM,chengyang.song@vodafone.com
+Task,VTVQA-5943,1576562,[RO PROD] STB S102 - Box Wakeup after Long Standby (>3 days),Open,10/May/23 1:40 PM,chengyang.song@vodafone.com
+Task,VTVQA-5698,1507216,"After electrical reboot, box shows SA005, FTU welcome spinner and CLU",Open,03/Apr/23 4:19 PM,alexandros.kalogiros@vodafone.com
+Config Change,VTVQA-5738,1511316,[IT PROD] [STB] Config OTA Update for Gen1 STB,Open,07/Feb/23 2:14 PM,chengyang.song@vodafone.com
+Config Change,VTVQA-5498,1473856,[R6.1] [VSB] [Channel Scan] - FTU Channel scan fails,Open,17/Nov/22 1:18 PM,filipe.guerra@vodafone.com
+Task,VTVQA-5389,1457161,On Demand assets are missing,Open,14/Nov/22 12:46 PM,naman.trivedi1@vodafone.com
+Task,VTVQA-5390,1457165,Focus lost and asset titles are missing in My TV,Open,14/Nov/22 12:30 PM,naman.trivedi1@vodafone.com
+Sub-task,VTVQA-5466,1467502,[AVSB] RCU Firmware BL 166 – 7075.07.04 version Upgrade - Sprint 16.9 and 17,In Progress,07/Nov/22 1:36 PM,gaurav.suramwar@vodafone.com
+Task,VTVQA-4843,1385565,[HU PROD] STB Potentially Ends up in Mixed Offline/Online Mode after FTU,Open,09/Aug/22 2:37 PM,chengyang.song@vodafone.com
+Config Change,VTVQA-5024,1409808,[IT PROD] [STB] Config API GW,Reopened,07/Jul/22 11:24 AM,chengyang.song@vodafone.com
+Task,VTVQA-4735,1373532,[IT PROD]Required OTT subscriptions for IT PROD,Open,22/Jun/22 2:01 PM,biyyapu.ganesh@vodafone.com
+Task,VTVQA-4895,1391301,Re-provisioning of DE Gen 2 premium production physical STB's,Open,16/May/22 11:54 AM,md.alvi@vodafone.com
+Task,VTVQA-4888,1389529,[CZ PROD] STB Potentially Ends up in Mixed Offline/Online Mode after FTU,Open,12/May/22 3:06 PM,chengyang.song@vodafone.com
+Config Change,VTVQA-4829,1385493,[CZ PROD] [Mobile/Tablet] Create DMS configuration of Sprint 96,Open,11/May/22 5:18 PM,suryakant.mandavkar@vodafone.com
+Config Change,VTVQA-2736,1130889,[IT PROD] [STB] Need to provision IT Gen2 STBs in IT PROD environment,Open,19/Apr/22 5:14 PM,sumit.alhat@vodafone.com
+Sub-task,VTVQA-4704,1370290,STB Sprint 92B - Exploratory test around Nagra licenses in Maintenance - CZ Premium Prod,Open,05/Apr/22 3:48 PM,sumit.alhat@vodafone.com
+Sub-task,VTVQA-4698,1369274,STB Sprint 92B - Exploratory test around Nagra licenses in Maintenance - GR Prod,Open,29/Mar/22 9:32 AM,sumit.alhat@vodafone.com
+Task,VTVQA-4608,1355170,Movement of 1 DE Prod STB to OTT_Multiroom DMS group and Change some Rail configs for OnDemand in VCOEQA_OTA DMS group,Open,07/Mar/22 12:39 PM,sainath.wakpate@vodafone.com
+Config Change,VTVQA-4247,1317815,Require IT Pre Prod STBs to be provisioned for Production Environment,Open,15/Dec/21 5:28 PM,sainath.wakpate@vodafone.com
+Task,VTVQA-4133,1304738,[GR PROD] Channel Scan Result Could Indicate an Error ,Open,02/Nov/21 12:31 PM,chengyang.song@vodafone.com
+Task,VTVQA-4090,1300478,Move to Genesis 2 URLs in all Prod Environments,Open,22/Oct/21 4:58 PM,jorgehenrique.soaresmarques@vodafone.com
+Task,VTVQA-4030,1279533,[GR PROD] Exploration on Automation STB's went offline,Open,08/Oct/21 1:07 PM,biyyapu.ganesh@vodafone.com
+Task,VTVQA-3987,1274632,[R6.1][STB][S88D][IT] - Channel Reordering/Metadata Changes,Open,06/Oct/21 5:06 PM,chengyang.song@vodafone.com
+Task,VTVQA-4026,1277556,[R6.1][STB][S88D][IT] - DTT Scanning,Open,04/Oct/21 3:56 PM,chengyang.song@vodafone.com
+Sub-task,VTVQA-4025,1277502,R6.2 STB S88C/D - ATP :: Channel Reordering/Metadata changes,Open,04/Oct/21 2:39 PM,jorgehenrique.soaresmarques@vodafone.com
+Sub-task,VTVQA-3984,1274471,R6.2 STB S88C/D - Channel Reordering/Metadata changes,Open,04/Oct/21 2:39 PM,jorgehenrique.soaresmarques@vodafone.com
+Config Change,VTVQA-3914,1264290,[DE PROD] [STB] Create DMS configuration of Sprint 88,In Progress,28/Sep/21 4:29 PM,sumit.alhat@vodafone.com
+Task,VTVQA-3992,1275081,[ALL PROD] Try to Hide Maximum Number of Channels,Open,28/Sep/21 4:28 PM,chengyang.song@vodafone.com
+Task,VTVQA-3824,1255344,[GR PROD] SB003 Error While Viewing CU Contents,In Progress,20/Aug/21 10:10 AM,chengyang.song@vodafone.com
+Config Change,VTVQA-3761,1249513,[ES PROD][VSB] Need to enable OTA from S85C BP00 to S86 BP00 and S85C BP02 to S86 BP02,Open,28/Jul/21 3:49 PM,sumit.alhat@vodafone.com
+Config Change,VTVQA-3644,1235672,[ES PROD][VSB] Need to enable OTA from S85 BP00 to S85B BP00 and S85 BP02 to S85B BP02,Open,28/Jul/21 1:38 PM,sumit.alhat@vodafone.com
+Config Change,VTVQA-3553,1225705,[PT PROD] [STB] Create DMS configuration of Sprint 85,Reopened,08/Jul/21 3:45 PM,sumit.alhat@vodafone.com
+Config Change,VTVQA-3671,1238686,[CZ PROD] [Mobile/Tablet] Create DMS configuration of Sprint 86,Reopened,07/Jul/21 3:47 PM,sumit.alhat@vodafone.com
+Task,VTVQA-3481,1215839,R6.1 STB S8* - New DE Gen2 Prem STB verification (DE_HW_v1 - ETH Transfo FPE + PCB ASK),Open,24/Jun/21 6:59 PM,jorgehenrique.soaresmarques@vodafone.com
+Task,VTVQA-3616,1230783,R6.1 STB S8* - New DE Gen2 Prem STB verification (DE_HW_v2 - Bothhand),Open,17/Jun/21 5:23 PM,jorgehenrique.soaresmarques@vodafone.com
+Config Change,VTVQA-2749,1131434,[GR PROD][STB] Aligning Subscription / Whitelisting of Public IP addresses to enable playback on GR PROD STBs ,Reopened,08/Jun/21 12:00 PM,sumit.alhat@vodafone.com
+Config Change,VTVQA-3563,1225730,[RO PROD] [Mobile/Tablet] Create DMS configuration of Sprint 85,Reopened,07/Jun/21 1:47 PM,sumit.alhat@vodafone.com
+Config Change,VTVQA-3562,1225728,[CZ PROD] [Mobile/Tablet] Create DMS configuration of Sprint 85,Reopened,07/Jun/21 1:40 PM,sumit.alhat@vodafone.com
+Task,VTVQA-1934,981077,[SmartTV] Data Collection - Exploratory tests,Open,27/May/21 12:57 PM,jorgehenrique.soaresmarques@vodafone.com
+Config Change,VTVQA-3312,1190902,[ES PROD][VSB] Need to enable OTA from Sprint 82 BP02 to BP03,Open,25/May/21 10:57 AM,sumit.alhat@vodafone.com
+Config Change,VTVQA-3342,1195429,[NZ PROD] [Mobile/Tablet] Create DMS configuration of Sprint 83,Open,29/Apr/21 10:32 AM,sumit.alhat@vodafone.com
+Config Change,VTVQA-3225,1181584,[NZ PROD] [Mobile/Tablet] Create DMS configuration of Sprint 82,Open,23/Mar/21 12:05 PM,sumit.alhat@vodafone.com
+Task,VTVQA-3306,1190464,[DE PROD] [Mobile/Tablet] Configure rails in KIDS app,In Progress,19/Mar/21 2:20 PM,chengyang.song@vodafone.com
+Config Change,VTVQA-2733,1130711,[DE PROD] [STB] [Mobile/Tablet] Whitelisting the Public IP addresses of Pune/Munich lab,Open,03/Dec/20 10:14 AM,sumit.alhat@vodafone.com
+Task,VTVQA-844,869272,[Mobile][TestWizard]Video playback is freezing in ScriptStudio A/V capture but playing smoothly on Actual device without any freeze,In Progress,12/Feb/20 12:13 PM,mayur.narendranarnaware@vodafone.com
+Task,VTVQA-879,872464,no native way to detect/measure audio from mobile devices ,Open,12/Jun/19 4:29 PM,dragoscatalin.olaru@vodafone.com
+Sub-task,VTVQA-5902,1570677,Data Collection P1 Test Set Review for Linux STB and Mobile,Reopened,05/Jul/24 12:38 PM,simona.keravuo@vodafone.com
+Sub-task,VTVQA-6837,1853296,[ATP] Exploratory -Handling of single quote in the KSQL in asset/action/list API call,Open,05/Jul/24 12:33 PM,pushkar.shamkantkulkarni@vodafone.com
+Sub-task,VTVQA-6833,1849946,PT- [R38] Exploratory test around Parallelized channel zapping.,Open,05/Jul/24 10:58 AM,rajvardhan.chouhan@vodafone.com
+Sub-task,VTVQA-6825,1847668,[R38] Exploratory test around Data Collection,In Progress,05/Jul/24 9:40 AM,priti.babantimande@vodafone.com
+Sub-task,VTVQA-6835,1850166,[AVSB/GEN3] [R-38] - Stability and Long Run Scenario validation on GEN3 & AVSB.,In Progress,05/Jul/24 8:59 AM,vikas.yadav2@vodafone.com
+Sub-task,VTVQA-6832,1849943,DE- [R38] Exploratory test around Parallelized channel zapping.,In Progress,04/Jul/24 3:47 PM,rajvardhan.chouhan@vodafone.com
+Task,VTVQA-3927,1265919,Update Master Matrix for Behavioral Consumption n Technical.,In Progress,04/Jul/24 3:22 PM,atanu.choudhury@vodafone.com
+Sub-task,VTVQA-6116,1611412,WebTV - Settings,Reopened,04/Jul/24 3:20 PM,prem.prakash2@vodafone.com
+Sub-task,VTVQA-6828,1848423,R-37 Exploratory around on Accessibility,Open,04/Jul/24 2:47 PM,swaroop.patil@vodafone.com
+Sub-task,VTVQA-6834,1850140,[Non-Android] EB Iteration 1.2:Dynamic Start and End time of CUTV/Padding in catch up,Open,04/Jul/24 2:46 PM,vaishali.gawade@vodafone.com
+Task,VTVQA-6829,1848735,"Provisioning Request for MP Hardware for DE, PT, CZ, ES, GR and CZ AVSB Alpha",Open,04/Jul/24 11:01 AM,stefan.boehm@vodafone.com
+Task,VTVQA-6820,1845393,Clarification regarding the Parallelized channel zapping,Open,03/Jul/24 12:27 PM,kommu.thirupathirao@vodafone.com
+Sub-task,VTVQA-6836,1850899,[Release-38] Exploratory ticket to track the maintenance scenarios ,Open,03/Jul/24 9:26 AM,dayanidhi.r@vodafone.com
+Sub-task,VTVQA-6732,1822148,[R-36/37] Exploratory ticket to track the maintenance scenarios ,In Progress,03/Jul/24 8:55 AM,dayanidhi.r@vodafone.com
+Sub-task,VTVQA-6809,1842290,[GEN3-Albania] Validation of basic checks on Albania Prod with R-37,In Progress,02/Jul/24 4:01 PM,vikas.yadav2@vodafone.com
+Sub-task,VTVQA-6814,1843574,"[GEN3/AVSB-R-37] Exploratory scenario, 'Optimize the zapping time under ATV 11 with MCAST & OTT'",In Progress,01/Jul/24 4:04 PM,vikas.yadav2@vodafone.com
+Sub-task,VTVQA-6808,1842163,R-37[GEN3/AVSB Prod] Exploratory around FTU Journey ,In Progress,01/Jul/24 12:47 PM,kalpana.shinde@vodafone.com
+Sub-task,VTVQA-6830,1849058,[tvOS]Exploratory session for Shop-in-shop ,Open,28/Jun/24 4:16 PM,snehal.khandekar@vodafone.com
+Sub-task,VTVQA-6506,1732894,TF28.087 - Continuous Rewind Refactor,In Progress,28/Jun/24 4:02 PM,prathama.gaikwad@vodafone.com
+Sub-task,VTVQA-4222,1315688,AVSB01 - Interaction Model and Navigation,In Progress,28/Jun/24 2:38 PM,simona.keravuo@vodafone.com
+Sub-task,VTVQA-4096,1300618,AVSB14 - Player,In Progress,28/Jun/24 11:56 AM,simona.keravuo@vodafone.com
+Task,VTVQA-1842,969598,[Adaptavist] SmartTV Sanity Test Set,Reopened,21/Jun/24 1:50 PM,simona.keravuo@vodafone.com
+Sub-task,VTVQA-6673,1808943,[AVSB/GEN3] [R32.2.2/R32.3/R-32.4] - Stability and Long Run Scenario validation on GEN3 & AVSB.,In Progress,19/Jun/24 3:02 PM,vikas.yadav2@vodafone.com
+Sub-task,VTVQA-6790,1835273,[R32.4] [GEN 3] Exploratory around HDMI-CEC feature,In Progress,18/Jun/24 8:23 AM,tarkeshwer.yadav@vodafone.com
+Sub-task,VTVQA-6729,1821689,[R32.3/32.4] Exploratory ticket to track the maintenance scenarios,In Progress,17/Jun/24 9:25 AM,dayanidhi.r@vodafone.com
+Sub-task,VTVQA-6802,1840869,AVSB/GEN3] - Stability and Long Run Scenario validation using monkeyrunner,Open,14/Jun/24 3:32 PM,omkar.patil4@vodafone.com
+Sub-task,VTVQA-6799,1840392,R-37 Exploratory around locked live channels associated to a folder,Open,14/Jun/24 12:49 PM,swaroop.patil@vodafone.com
+Sub-task,VTVQA-6728,1821686,[AVSB/GEN3] [R36] - Stability and Long Run Scenario validation on GEN3 & AVSB.,In Progress,14/Jun/24 8:35 AM,vikas.yadav2@vodafone.com
+Sub-task,VTVQA-6798,1839802,TVOS -  Regionalization,In Progress,13/Jun/24 3:30 PM,praveenkumar.singh2@vodafone.com
+Sub-task,VTVQA-6796,1837782,R-36 Exploratory ABR profile CAP ( 4K enabler ),Open,12/Jun/24 1:03 PM,swaroop.patil@vodafone.com
+Epic,VTVQA-6200,1633630,GEN3/AVSB - Exploratory tests,Open,11/Jun/24 1:59 PM,mohanishkumar.patil@vodafone.com
+Sub-task,VTVQA-6792,1835408,"S110 - Exploratory test on Support for MinCLULength (VFGTV-37394, VFGTV-37396)",In Progress,10/Jun/24 4:00 PM,gaurav.suramwar@vodafone.com
+Sub-task,VTVQA-6738,1822791,S109 - Exploratory test on VFGTV-37709: Maintenance on Boot screen,In Progress,10/Jun/24 10:09 AM,gaurav.suramwar@vodafone.com
+Sub-task,VTVQA-6782,1832995,[PT_PROD][IE_PROD][R32.3] Exploratory on user-based scenarios,Open,10/Jun/24 9:17 AM,snehal.khandekar@vodafone.com
+Task,VTVQA-6784,1833025,[WP1] Local JIRA Db model - Projects and fields to keep,Open,05/Jun/24 11:30 AM,jorgehenrique.soaresmarques@vodafone.com
+Story,VTVQA-6785,1833084,[WF3] Enable dashboard to show statistics and KPIs,Open,05/Jun/24 10:57 AM,jorgehenrique.soaresmarques@vodafone.com
+Sub-task,VTVQA-6740,1823472,[R35/36]Exploratory around CTS token,In Progress,04/Jun/24 9:30 AM,omkar.patil4@vodafone.com
+Task,VTVQA-6778,1831896,R36 - PT AVSB/GEN3 - Update VCOEQA-OTA DMS same as VCOEQA-EB and add specific network related configs.,Open,03/Jun/24 4:01 PM,sainath.wakpate@vodafone.com
+Sub-task,VTVQA-6772,1829978,[CTS Token] Exploratory around Append Token query string parameters.,In Progress,30/May/24 2:41 PM,tarkeshwer.yadav@vodafone.com
+Epic,VTVQA-1122,892684,R6.0/R6.1 Exploratory tests,Open,29/May/24 3:54 PM,jorgehenrique.soaresmarques@vodafone.com
+Task,VTVQA-6097,1607715,[DE PROD] Main ticket to track the all-environment limitation tickets of DE PROD,Open,29/May/24 12:03 PM,karpagaraj.m@vodafone.com
+Sub-task,VTVQA-6765,1828430,"[VSB][Thyseen][Content Aggregation] Exploratory - BE_CONTENT_AGGREGATION -VFGTV-37087, VFGTV-38943 & VFGTV-39393",Open,28/May/24 12:30 PM,tarkeshwer.yadav@vodafone.com
+Config Change,VTVQA-6753,1826938,[Automation Prod] [STB][Gen 2] Main ticket to track DMS configuration of OTA upgrade to Sprint 109 in VCOEQA_OTA DMS group,Open,24/May/24 1:43 PM,dhruveel.jain@vodafone.com
+Config Change,VTVQA-6743,1824280,[Automation Prod] [STB][Gen 2] Main ticket to track DMS configuration of OTA upgrade to Sprint 110 in VCOEQA_OTA DMS group,Open,24/May/24 1:42 PM,dhruveel.jain@vodafone.com
+Sub-task,VTVQA-6674,1808946,[AVSB/GEN3] [R35] - Stability and Long Run Scenario validation on GEN3 & AVSB.,In Progress,20/May/24 10:12 AM,vikas.yadav2@vodafone.com
+Task,VTVQA-2896,1145201,Best Episode in Program Info & Best Episode 2.0,Open,10/May/24 1:50 PM,simona.keravuo@vodafone.com
+Sub-task,VTVQA-6482,1721281,Encrypted Login,Open,10/May/24 1:07 PM,prathama.gaikwad@vodafone.com
+Sub-task,VTVQA-6700,1816019,R32.2.2 [GEN3 CZ Prod] Exploratory around basic user Journey,Open,09/May/24 8:28 AM,vikas.yadav2@vodafone.com
+Task,VTVQA-6702,1816134,[WP1] Create smart local copy of selected JIRA DBs,Open,08/May/24 11:41 AM,jorgehenrique.soaresmarques@vodafone.com
+New Feature,VTVQA-6704,1816146,[Stats] Give a count of issues belonging to a certain functional area (pie chart),Open,08/May/24 9:46 AM,jorgehenrique.soaresmarques@vodafone.com
+Task,VTVQA-6703,1816144,Create a mapping of functional areas and linked labels,Open,08/May/24 9:45 AM,jorgehenrique.soaresmarques@vodafone.com
+Task,VTVQA-6645,1800714,Exploratory - Best Episode 2.0,Open,03/May/24 10:22 AM,snehal.khandekar@vodafone.com
+Sub-task,VTVQA-6682,1811455,[R35] Exploratory test on maintenance,In Progress,02/May/24 4:05 PM,dayanidhi.r@vodafone.com
+Sub-task,VTVQA-6628,1796142,[GEN3] [R32.2.1] Exploratory testing around HDMI Interface,Open,02/May/24 10:16 AM,tarkeshwer.yadav@vodafone.com
+Config Change,VTVQA-6685,1812102,[Automation Prod] [STB][Gen 2] Main ticket to track DMS configuration of OTA upgrade to Sprint 105E in VCOEQA_OTA DMS group,Open,30/Apr/24 10:05 AM,dhruveel.jain@vodafone.com
+Improvement,VTVQA-6669,1807177,"[Dashboard]Add channels information as per the the stream file type (DVBC,OTT,MCAST)",Open,19/Apr/24 2:15 PM,pushkar.shamkantkulkarni@vodafone.com
+Sub-task,VTVQA-6599,1778124,[AVSB/GEN3] [R32.2/R32.2.1] - Stability and Long Run Scenario validation on GEN3 & AVSB,In Progress,19/Apr/24 1:18 PM,vikas.yadav2@vodafone.com
+Sub-task,VTVQA-6663,1806353,Exploratory around player on CZ PROD 107B,Open,19/Apr/24 11:52 AM,snehal.khandekar@vodafone.com
+Sub-task,VTVQA-6664,1806488,R-32.2.1 Exploratory around Bluetooth,Open,18/Apr/24 1:06 PM,swaroop.patil@vodafone.com
+Sub-task,VTVQA-6655,1804998,[R32.2.1] Exploratory testing around RCU testing,Open,18/Apr/24 9:41 AM,omkar.patil4@vodafone.com
+Improvement,VTVQA-6661,1805602,[WebKMT] New improvements for content tags/hiding columns,Open,17/Apr/24 12:21 PM,sumit.kumar53@vodafone.com
+Sub-task,VTVQA-6627,1795963,[R32.2.1] [GEN3/AVSB] Explorartory test to track the Nagra and Maintenance scenarios,Open,15/Apr/24 2:04 PM,kalpana.shinde@vodafone.com
+Sub-task,VTVQA-6638,1797739,[Sprint 105DA] DE ATP Local recordings Exploratory test for VFGTV-39605,In Progress,15/Apr/24 11:06 AM,gaurav.suramwar@vodafone.com
+Sub-task,VTVQA-6576,1765033,[S107][Android][iOS] Validation of Seamless authentication via QR code,Open,11/Apr/24 7:21 PM,snehal.khandekar@vodafone.com
+Task,VTVQA-6619,1794661,[Radix]FW Upgrade tests within Radix from Release 32.2 to higher R 32.2.1 ,In Progress,08/Apr/24 5:10 PM,jorgehenrique.soaresmarques@vodafone.com
+Sub-task,VTVQA-6635,1796913,[MOBART]Exploratory on MOBART V7.1,Open,04/Apr/24 11:47 AM,snehal.khandekar@vodafone.com
+Sub-task,VTVQA-6604,1779841,User is unable to retrieve the configs for tvOS,Open,03/Apr/24 10:47 AM,shruti.braun@vodafone.com
+Task,VTVQA-6625,1795165,[Prod]GEN3 Android Albania MP samples Provisioning,Open,29/Mar/24 7:16 AM,suryakant.mandavkar@vodafone.com
+Sub-task,VTVQA-6622,1794895,Exploratory to test PIN-Management on DVBC and OTT.,Open,28/Mar/24 1:33 PM,riteshkumar.pandey@vodafone.com
+Improvement,VTVQA-6618,1794413,"Improve scale of tiles and tool content for 15"" screens",Open,27/Mar/24 3:26 PM,jorgehenrique.soaresmarques@vodafone.com
+Bug,VTVQA-6617,1794411,hyperlink to open in JIRA an issue is not working,Open,27/Mar/24 3:24 PM,jorgehenrique.soaresmarques@vodafone.com
+Improvement,VTVQA-6612,1794401,Add section to select and filter for favorite projects,Open,27/Mar/24 3:22 PM,jorgehenrique.soaresmarques@vodafone.com
+Improvement,VTVQA-6610,1794394,Offer prefilled options in filters/smartfilter,Open,27/Mar/24 3:20 PM,jorgehenrique.soaresmarques@vodafone.com
+Improvement,VTVQA-6609,1794392,Improve usability of Issues/Test cycles visual (Perhaps truncate the text of large content cells),Open,27/Mar/24 3:20 PM,jorgehenrique.soaresmarques@vodafone.com
+Bug,VTVQA-6608,1794391,Overlapping info in Issues Stats tile,Open,27/Mar/24 3:19 PM,jorgehenrique.soaresmarques@vodafone.com
+Improvement,VTVQA-6607,1794385,Improve visual of project presentation,Open,27/Mar/24 3:18 PM,jorgehenrique.soaresmarques@vodafone.com
+Sub-task,VTVQA-6587,1772408,[Android][S107EB]Exploratory around Player,In Progress,19/Mar/24 2:38 PM,snehal.khandekar@vodafone.com
+Task,VTVQA-6572,1759282,DE Prod devices having Concurrency issues.,Open,15/Mar/24 8:43 AM,sainath.wakpate@vodafone.com
+Sub-task,VTVQA-6584,1770661,[iOS]User based exploratory on S107 ,Open,14/Mar/24 8:37 AM,snehal.khandekar@vodafone.com
+Task,VTVQA-6585,1771361,[VSB][Automation Prod][Gen 2] OTA upgrade on VSB PROD STBs (FTTH/HFC) from S101 V3.4 Gold Build to S101 V3.4 Gold build,Open,13/Mar/24 1:29 PM,meha.singh@vodafone.com
+Sub-task,VTVQA-6561,1747069,Exploratory on Airplay & Chromecast,In Progress,06/Mar/24 5:20 PM,snehal.khandekar@vodafone.com
+Sub-task,VTVQA-6571,1759078,[R32.1] [DVBC][DE] Exploratory to track the test scenarios on DVBC testing. ,Open,04/Mar/24 12:44 PM,prasenjit.sinha@vodafone.com
+Task,VTVQA-6515,1735677,[Radix] Device management,Open,04/Mar/24 9:22 AM,jorgehenrique.soaresmarques@vodafone.com
+Sub-task,VTVQA-6565,1747360,[AVSB][RELEASE 32.1][2.2401.08 FW + 0.32.00.9b59c94 Launcher (UI) + 7066.8.6 (RCU)] Exploratory test around OTA upgrade,Open,28/Feb/24 1:33 PM,karpagaraj.m@vodafone.com
+Sub-task,VTVQA-6564,1747335,[GEN3][RELEASE 32.1][2.2401.08 FW + 0.32.00.9b59c94 Launcher (UI) + 7066.8.6 (RCU)] Exploratory test around OTA upgrade,Open,28/Feb/24 1:32 PM,karpagaraj.m@vodafone.com
+Sub-task,VTVQA-6299,1660571,[GEN3/AVSB] [R-29] - Stability and Long Run Scenarios test in R-29,In Progress,20/Feb/24 10:07 AM,vikas.yadav2@vodafone.com
+Sub-task,VTVQA-5319,1449895,nPVR,Open,16/Feb/24 9:06 AM,tapas.patra@vodafone.com
+Sub-task,VTVQA-6532,1737674,[STB][Sprint S105D] Exploratory around G_Trick Override for local recordings.,In Progress,12/Feb/24 2:05 PM,siddharth.jamankar@vodafone.com
+Task,VTVQA-4666,1363393,WebTV - Test Set,Open,09/Feb/24 11:20 AM,simona.keravuo@vodafone.com
+Sub-task,VTVQA-6472,1717334,[AVSB][RELEASE 30.3][2.2304.16 FW + 0.30.3-715e13a Launcher (UI) + 7066.8.6 (RCU)] Exploratory test around OTA upgrade,In Progress,08/Feb/24 8:14 AM,karpagaraj.m@vodafone.com
+Sub-task,VTVQA-6510,1734874,Exploratory on MOBART V6.3,Open,06/Feb/24 3:26 PM,snehal.khandekar@vodafone.com
+Epic,VTVQA-5878,1566397,[Framework] Cybersecurity architecture,Open,31/Jan/24 3:11 PM,jorgehenrique.soaresmarques@vodafone.com
+Sub-task,VTVQA-6488,1724259,[Data Collection][STB]Toshiba HDD connection and DLANG ,Open,25/Jan/24 7:22 PM,chengyang.song@vodafone.com
+Story,VTVQA-6391,1695129,Beta Testing for DMS Inspector,Open,17/Jan/24 11:02 AM,shruti.braun@vodafone.com
+Sub-task,VTVQA-6471,1717332,[GEN3][RELEASE 30.3][2.2304.16 FW + 0.30.3-715e13a Launcher (UI) + 7066.8.6 (RCU)] Exploratory test around OTA upgrade,In Progress,16/Jan/24 3:28 PM,karpagaraj.m@vodafone.com
+Sub-task,VTVQA-6428,1708357,[GEN3][AVSB]List of boxes used for testing,Open,16/Jan/24 11:08 AM,umesh.gorela@vodafone.com
+Epic,VTVQA-1865,976935,[RAT] - Resource Allocation Tool,In Progress,15/Jan/24 3:32 PM,simona.keravuo@vodafone.com
+New Feature,VTVQA-3262,1187518,Show changes from the previous data,Reopened,15/Jan/24 3:32 PM,jorgehenrique.soaresmarques@vodafone.com
+Task,VTVQA-3687,1240167,Improve manifest information for Multi Audio/Subtitles,In Progress,15/Jan/24 3:29 PM,joao.franco1@vodafone.com
+Bug,VTVQA-3691,1240775,Error when switching between Environments,In Progress,15/Jan/24 3:29 PM,joao.franco1@vodafone.com
+Improvement,VTVQA-3810,1253638,[mediaSpace] Create two modes for exporting: WYSIWYG and full table,Open,15/Jan/24 3:29 PM,jorgehenrique.soaresmarques@vodafone.com
+Improvement,VTVQA-3831,1256025,"[mediaSpace] Improve UI refresh of table - add status, etc",Open,15/Jan/24 3:28 PM,jorgehenrique.soaresmarques@vodafone.com
+Improvement,VTVQA-3832,1256028,[mediaSpace] Add expand All button,Open,15/Jan/24 3:28 PM,jorgehenrique.soaresmarques@vodafone.com
+Story,VTVQA-4350,1328501,[Phase 1] Additional tasks : Fake Serial ID creation,Open,15/Jan/24 3:27 PM,shruti.braun@vodafone.com
+Story,VTVQA-4353,1328507,[Phase 2] Additional Features : Creating DMS mapping using CASID/UDID,Open,15/Jan/24 3:27 PM,shruti.braun@vodafone.com
+Story,VTVQA-4354,1328509,[Phase 2] Additional Features :  DMS comparison across multiple OpCos,Open,15/Jan/24 3:27 PM,shruti.braun@vodafone.com
+Story,VTVQA-4355,1328511,[Phase 3] Creating alert e-mail (part 1),Open,15/Jan/24 3:27 PM,shruti.braun@vodafone.com
+Story,VTVQA-4357,1328514,[Phase 4] Creation of user friendly view,Open,15/Jan/24 3:27 PM,shruti.braun@vodafone.com
+Sub-task,VTVQA-5076,1417035,Need to add more fields in Jira extract /export Power BI report ,Open,15/Jan/24 3:26 PM,suryakant.mandavkar@vodafone.com
+Bug,VTVQA-5157,1426217,DE Prod line-up mismatch ,Open,15/Jan/24 3:26 PM,dragoscatalin.olaru@vodafone.com
+New Feature,VTVQA-5186,1430225,"Add ""WebTV"" Mode to existing KMT tool",Open,15/Jan/24 3:26 PM,sumit.kumar53@vodafone.com
+Bug,VTVQA-5234,1435489,PowerBI cannot load graphs If created json file contains empty test cycle,Open,15/Jan/24 3:26 PM,chengyang.song@vodafone.com
+Task,VTVQA-5254,1439386,Beta Testing for DMS monitoring tool,In Progress,15/Jan/24 3:26 PM,shruti.braun@vodafone.com
+Story,VTVQA-5508,1477899,[Phase0] Definition of requirements - high level,Open,15/Jan/24 3:25 PM,jorgehenrique.soaresmarques@vodafone.com
+New Feature,VTVQA-5511,1477932,Output to SQL db,Open,15/Jan/24 3:25 PM,jorgehenrique.soaresmarques@vodafone.com
+Task,VTVQA-5512,1478208,ScriptRunner: explore the possibility to use it in order to replace JIRA API calls,Open,15/Jan/24 3:25 PM,jorgehenrique.soaresmarques@vodafone.com
+Improvement,VTVQA-5559,1484991,Migrate old backend logic to SQL format,Open,15/Jan/24 3:25 PM,jorgehenrique.soaresmarques@vodafone.com
+Improvement,VTVQA-5560,1484993,Rebuild UI in WPF - XALM,Open,15/Jan/24 3:25 PM,jorgehenrique.soaresmarques@vodafone.com
+New Feature,VTVQA-5565,1485016,[Phase 3] Postprocess test executions run document,Open,15/Jan/24 3:25 PM,jorgehenrique.soaresmarques@vodafone.com
+New Feature,VTVQA-5566,1485021,"[Phase 3] Append ""Prod"" to selected test cycles ",Open,15/Jan/24 3:25 PM,jorgehenrique.soaresmarques@vodafone.com
+Epic,VTVQA-5875,1566025,QAWebTools,Open,15/Jan/24 3:25 PM,jorgehenrique.soaresmarques@vodafone.com
+Epic,VTVQA-5924,1576259,[Framework] Logging capabilities,Open,15/Jan/24 3:24 PM,jorgehenrique.soaresmarques@vodafone.com
+Story,VTVQA-5925,1576262,Log who has accessed the Tools Web Portal,Open,15/Jan/24 3:24 PM,jorgehenrique.soaresmarques@vodafone.com
+Story,VTVQA-5926,1576264,Log who has downloaded/opened a particular tool,Open,15/Jan/24 3:24 PM,jorgehenrique.soaresmarques@vodafone.com
+Story,VTVQA-5927,1576267,Log user's session duration - web tools only,Open,15/Jan/24 3:23 PM,jorgehenrique.soaresmarques@vodafone.com
+Epic,VTVQA-5928,1576269,[Framework] QA Tools WebPortal,Open,15/Jan/24 3:23 PM,jorgehenrique.soaresmarques@vodafone.com
+Initiative,VTVQA-5931,1576318,QA Tools,Open,15/Jan/24 3:23 PM,jorgehenrique.soaresmarques@vodafone.com
+Bug,VTVQA-5932,1576363,Empty alert e-mails are being sent ,Open,15/Jan/24 3:23 PM,jorgehenrique.soaresmarques@vodafone.com
+Story,VTVQA-5938,1576431,Setup a logging collection system to store usage data,Open,15/Jan/24 3:23 PM,jorgehenrique.soaresmarques@vodafone.com
+New Feature,VTVQA-6022,1593052,[webKMT] In global search - see feasibility to add complex search,Open,15/Jan/24 3:23 PM,jorgehenrique.soaresmarques@vodafone.com
+Story,VTVQA-6243,1640610,getConfig url check,Open,15/Jan/24 3:23 PM,shruti.braun@vodafone.com
+Initiative,VTVQA-5874,1566023,Tools Framework,Open,15/Jan/24 3:17 PM,jorgehenrique.soaresmarques@vodafone.com
+Sub-task,VTVQA-6420,1707333,"[Release 30.2][Gen3, AVSB]: Exploratory Test around channel subscription.",Open,12/Jan/24 12:00 PM,rajvardhan.chouhan@vodafone.com
+Sub-task,VTVQA-6455,1710800,[STB][Sprint S107] Exploratory on Parental Control.,In Progress,04/Jan/24 10:41 AM,tarkeshwer.yadav@vodafone.com
+Sub-task,VTVQA-6456,1710857,Exploratory around Player (DTT/DVB-C/MCast),Open,02/Jan/24 12:10 PM,hirendra.kumar@vodafone.com
+Sub-task,VTVQA-6419,1707146,[GEN3] [Release 30.2] Exploratory around Recording,Open,29/Dec/23 10:14 AM,sarfaraz.memon@vodafone.com
+Sub-task,VTVQA-6072,1601563,[STB][DE][98L/102B] Series Recording Scheduling Deletion,Open,22/Dec/23 11:14 AM,chengyang.song@vodafone.com
+Task,VTVQA-5525,1480068,AVSB Testcase development-Sharvil,Open,20/Dec/23 11:41 AM,sharvil.joshi@vodafone.com
+Story,VTVQA-6431,1708456,Tool to support/automate parts of the report creation (generate graphs )/representing automation results/defect prediction,Open,20/Dec/23 10:58 AM,jorgehenrique.soaresmarques@vodafone.com
+Story,VTVQA-6434,1708460,Inventory keeper: list Build Market/PROD environment overview on web portal - beyond KMT,Open,19/Dec/23 4:36 PM,jorgehenrique.soaresmarques@vodafone.com
+Story,VTVQA-6435,1708461,Tool to automated the creation of DMS versions - integration with VCS,Open,19/Dec/23 4:34 PM,jorgehenrique.soaresmarques@vodafone.com
+Story,VTVQA-6433,1708459,NPAW test tool,Open,19/Dec/23 4:34 PM,jorgehenrique.soaresmarques@vodafone.com
+Story,VTVQA-6432,1708458,Enhancements of the DC test support tools,Open,19/Dec/23 4:34 PM,jorgehenrique.soaresmarques@vodafone.com
+Story,VTVQA-6430,1708455,Tool to collect and consolidate logs/network traces (from API GW.)/RTL,Open,19/Dec/23 4:34 PM,jorgehenrique.soaresmarques@vodafone.com
+Initiative,VTVQA-6429,1708361,Central Hub for Innovations in QA Tools and Processes,Open,19/Dec/23 4:33 PM,jorgehenrique.soaresmarques@vodafone.com
+Sub-task,VTVQA-6409,1704290,[Gen 3][Prod][ATP][GR] Exploratory test for Data Collection,In Progress,18/Dec/23 1:34 PM,siddharth.jamankar@vodafone.com
+Sub-task,VTVQA-6406,1703919,[GEN3][R30.1] Exploratory test around the improvement ticket VTVAS-8796,In Progress,14/Dec/23 12:29 PM,vikas.yadav2@vodafone.com
+Sub-task,VTVQA-6400,1697837,[tvOS] Exploratory on Recommendations,Open,08/Dec/23 3:40 PM,snehal.khandekar@vodafone.com
+Sub-task,VTVQA-6384,1693658,[Gen2][S107 FAEB]: Exploratory of KIDS mode.,Open,01/Dec/23 12:25 PM,rajvardhan.chouhan@vodafone.com
+Task,VTVQA-6385,1693754,Logs Project,Open,30/Nov/23 10:06 AM,harish.algat@vodafone.com
+Task,VTVQA-6379,1692537,RADIX Integration with Android,Open,29/Nov/23 3:02 PM,shruti.braun@vodafone.com
+Sub-task,VTVQA-6380,1692579,[107 FAEB]: Exploratory Test around STB UI Refresh.,Open,29/Nov/23 12:43 PM,rajvardhan.chouhan@vodafone.com
+Sub-task,VTVQA-6378,1690422,S107-Player - Exploratory on Player functionality for Live (MCAST/DVB-C/OTT)/Trickmode/CU/CLU events.,Open,27/Nov/23 1:52 PM,tarkeshwer.yadav@vodafone.com
+Task,VTVQA-6372,1688573,Validation of an improvement in S105C,Open,23/Nov/23 9:06 AM,snehal.khandekar@vodafone.com
+Task,VTVQA-6374,1688963,Mobile ART Overview & Work to be done,Open,21/Nov/23 2:07 PM,harish.algat@vodafone.com
+Sub-task,VTVQA-6371,1688565,[Mobile][S105C] Exploratory around player,In Progress,21/Nov/23 1:39 PM,amruta.khandare@vodafone.com
+Task,VTVQA-6364,1684138,"[TVOS] Exploratory on TVOS S41 - Settings, On Now, On Demand, TV Guide",Open,20/Nov/23 8:59 AM,solange.oliveira@vodafone.com
+Sub-task,VTVQA-6351,1679105,SSM Concurrency Management,Open,16/Nov/23 8:30 AM,atanu.choudhury@vodafone.com
+Task,VTVQA-6361,1683628,Correct config for ES required,Open,10/Nov/23 3:03 PM,snehal.khandekar@vodafone.com
+Sub-task,VTVQA-6347,1676790,[VSB VFES_V3] Exploratory test for HDMI-CEC feature using External Sound system (Onkyo Player),Open,10/Nov/23 7:42 AM,vikas.yadav2@vodafone.com
+Task,VTVQA-6358,1682573,[Android 14][MOBART][VFGTVMOB]Exploratory on Newer android version,Open,09/Nov/23 10:57 AM,snehal.khandekar@vodafone.com
+Sub-task,VTVQA-6349,1677348,[Release 29][Gen3]Exploratory around player ,Open,08/Nov/23 8:18 AM,krutika.chaudhari@vodafone.com
+Sub-task,VTVQA-6344,1676405,[tvOS]Exploratory on Data Collection,Open,02/Nov/23 3:42 PM,snehal.khandekar@vodafone.com
+Task,VTVQA-6323,1671248,[PT PROD][Android][STB] HBOmax Launch/Playback/Exit ,In Progress,01/Nov/23 8:54 AM,chengyang.song@vodafone.com
+Task,VTVQA-2697,1127237,[Production] STB Exploratory Test Sessions,Open,26/Oct/23 12:38 PM,chengyang.song@vodafone.com
+Sub-task,VTVQA-6272,1649145,[AVSB/Gen3] Exploratory Test on Accessibility ,Open,24/Oct/23 5:27 PM,hirendra.kumar@vodafone.com
+Sub-task,VTVQA-6244,1640678,NPAW Review & Rework,Open,20/Oct/23 12:28 PM,simona.keravuo@vodafone.com
+Sub-task,VTVQA-6307,1662507,[Gen2] Exploratory test around OTA upgrade,In Progress,20/Oct/23 9:32 AM,siddharth.jamankar@vodafone.com
+Sub-task,VTVQA-6315,1665232,Exploratory to test improvement Continuous rewind entry conditions,Open,19/Oct/23 10:44 AM,snehal.khandekar@vodafone.com
+Sub-task,VTVQA-6268,1648799,[Sprint-105B EB-1][Gen2]: Exploratory Test around Continuous Rewind Refactor.,Open,12/Oct/23 9:05 AM,rajvardhan.chouhan@vodafone.com
+Sub-task,VTVQA-5985,1582078,[Matrix update][Behavioural Data] - Support for Behavioral Data events,In Progress,09/Oct/23 12:45 PM,atanu.choudhury@vodafone.com
+Sub-task,VTVQA-5827,1550762,[ES PROD] Exploratory ticket to track the all-environment limitation related tickets on GEN3.,In Progress,06/Oct/23 2:26 PM,karpagaraj.m@vodafone.com
+Sub-task,VTVQA-5696,1507342,CLONE - [ES PROD][VSB][AutomationSTBs] [Kloud]OTA upgrade on VSB PROD STBs in KLOUD_VCoE_THYSSEN DMS group from FTTH/HFC S99 BP00 to S100 BP00 & NEBA S98 BP02 to S100 BP02,Open,06/Oct/23 1:41 PM,kuldeep.singh1@vodafone.com
+Sub-task,VTVQA-6287,1655618,[ES] Exploratory test for Data Collection,In Progress,06/Oct/23 12:31 PM,umesh.gorela@vodafone.com
+Sub-task,VTVQA-6280,1653046,[AVSB]Exploratory on Third party apps,Open,03/Oct/23 9:32 AM,vaishali.gawade@vodafone.com
+Task,VTVQA-6281,1653428,VFGTV-37504 Internal Check,Open,28/Sep/23 4:23 PM,chengyang.song@vodafone.com
+Task,VTVQA-6257,1644148,[PT PROD] Reckeck on VFGTV-38443,Open,15/Sep/23 2:44 PM,chengyang.song@vodafone.com
+Bug,VTVQA-6195,1631977,[IE_PROD] Environment limitations tracking for Mobile platform,Open,26/Aug/23 9:35 AM,snehal.khandekar@vodafone.com
+Sub-task,VTVQA-6191,1631016,R26.3 | Gen3 Prod | Exploratory around Trickmode (VTVAS-8106),Open,22/Aug/23 9:40 AM,sarfaraz.memon@vodafone.com
+Bug,VTVQA-6184,1629272,Please ignore this ticket,Open,17/Aug/23 3:35 PM,rohit.balwantkanade@vodafone.com
+Task,VTVQA-6169,1626502,[Gen3][ES Prod] - Exploratory test around Player - R26.2,Open,11/Aug/23 4:09 PM,solange.oliveira@vodafone.com
+Task,VTVQA-5919,1575650,[PL] Test Case Rationalisation,In Progress,03/Aug/23 1:25 PM,mohammad.khan3@vodafone.com
+Sub-task,VTVQA-6156,1620884,[AVSB][Sprint 21.6] Exploratory testing on recommendations. ,Open,02/Aug/23 10:25 AM,rajvardhan.chouhan@vodafone.com
+Sub-task,VTVQA-6135,1616792,[ES_PROD]Exploratory Test on Media Library,Open,26/Jul/23 9:38 AM,nutan.naikwade@vodafone.com
+Sub-task,VTVQA-6031,1595132,[GR PROD] Main ticket to track the all-environment limitation tickets of GR PROD,Open,25/Jul/23 5:57 PM,sumit.alhat@vodafone.com
+Sub-task,VTVQA-6126,1614037,[R26.1][AVSB] Exploratory Around Maintenance Scenarios,Open,21/Jul/23 4:59 PM,hirendra.kumar@vodafone.com
+Sub-task,VTVQA-6098,1607814,Audio-Video exploratory,Open,10/Jul/23 12:17 PM,snehal.khandekar@vodafone.com
+Task,VTVQA-6088,1605652,[DTT] Need recorded stream with Scrambled services/No audio with video available/ Non Audio video services,Open,05/Jul/23 4:31 PM,dayanidhi.r@vodafone.com
+Task,VTVQA-5901,1570328,[PL] - Correction of flows and PL specific use cases,Open,03/Jul/23 3:02 PM,parag.karnik4@vodafone.com
+Sub-task,VTVQA-6082,1603748,[Gen3][IE_PROD]Exploratory around My tv & Recordings,Open,30/Jun/23 8:20 AM,snehal.khandekar@vodafone.com
+Task,VTVQA-6086,1604013,[DTT] Need LCN mapped recorded TS with DTT channels,Open,28/Jun/23 9:30 AM,dayanidhi.r@vodafone.com
+Sub-task,VTVQA-6085,1604170,Exploratory test around maintenance feature,In Progress,28/Jun/23 8:36 AM,omkar.patil4@vodafone.com
+Config Change,VTVQA-6083,1603875,Need configuration for Voice Search fallback without NLU.,Open,27/Jun/23 2:39 PM,rajvardhan.chouhan@vodafone.com
+Task,VTVQA-6049,1598693,DC Validator Tool Issues,Open,20/Jun/23 9:01 AM,gaurav.suramwar@vodafone.com
+Sub-task,VTVQA-6041,1597362,Exploratory around transition related test ,Open,16/Jun/23 12:15 PM,krutika.chaudhari@vodafone.com
+Sub-task,VTVQA-6038,1596471,[Gen 3] Release 25 - Exploratory on RCU software update and stability,Open,14/Jun/23 2:14 PM,umesh.gorela@vodafone.com
+Task,VTVQA-6030,1594953,[Release 25] ES - SOTA upgrade checks,Open,13/Jun/23 9:06 AM,deepika.thakkar@vodafone.com
+Task,VTVQA-6024,1593080,[tvOS][PT_PROD] Basic information tracking for TVos PROD version,Open,12/Jun/23 10:01 AM,snehal.khandekar@vodafone.com
+Task,VTVQA-6027,1593722,[Release 21.8] Maintenance Exploratory.,Open,09/Jun/23 9:33 AM,deepika.thakkar@vodafone.com
+Config Change,VTVQA-3617,1231048,[AL PROD] [All platform] Need to Whitelist new IP addresses of Pune and Munich lab in Albania,Open,07/Jun/23 12:56 PM,sumit.alhat@vodafone.com
+Sub-task,VTVQA-6006,1590582,STB S102 - Network Access Validation,Open,02/Jun/23 2:54 PM,chengyang.song@vodafone.com
+Config Change,VTVQA-5987,1581908,[ES PROD] Mobile Device configurations for Kcloud,Open,24/May/23 11:29 AM,snehal.khandekar@vodafone.com
+Sub-task,VTVQA-5989,1582734,[GEN3 CZ] [ATP] Exploratory around basic user journey,Open,23/May/23 4:42 PM,prasenjit.sinha@vodafone.com
+Sub-task,VTVQA-5981,1581266,Exploratory Testing on VSB Settings.,Open,23/May/23 10:25 AM,tarkeshwer.yadav@vodafone.com
+Task,VTVQA-5918,1573651,[Android GEN3][PROD]Provisioning Request of GEN3 Albania Alpha and DE FUT HW in PROD,Open,23/May/23 10:11 AM,stefan.boehm@vodafone.com
+Task,VTVQA-5942,1576558,[CZ PROD] STB S102 - Box Wakeup after Long Standby (>3 days),Open,22/May/23 9:23 AM,chengyang.song@vodafone.com
+Sub-task,VTVQA-5977,1580975,[GEN3-ES & CZ][S21.8][2.21.16 FW + S24 Launcher] Exploratory test around OTA upgrade,Open,19/May/23 4:28 PM,amruta.khandare@vodafone.com
+Sub-task,VTVQA-5973,1579839,[AVSB]Exploratory around basic user journey of TLM,Open,18/May/23 8:43 AM,prasenjit.sinha@vodafone.com
+Sub-task,VTVQA-5122,1422664,Remote Troubleshooting Framework/Lumberjack queries,Open,17/May/23 12:37 PM,sachin.baburaoande@vodafone.com
+Config Change,VTVQA-5823,1550081,[Automation Prod] [STB][Gen 2 Entry] Main ticket to track DMS configuration of OTA upgrade to Sprint 98I/Sprint 98J/Sprint 101B in VCOEQA_OTA DMS group,Open,16/May/23 10:01 AM,kuldeep.singh1@vodafone.com
+Task,VTVQA-5321,1449903,[IE PROD] Exploratory ticket to track initial impressions on AVSB,Open,10/May/23 6:26 PM,shruti.braun@vodafone.com
+Sub-task,VTVQA-5921,1575751,STB S102 - Box Wakeup after Long Standby (>3 days),Open,10/May/23 1:42 PM,chengyang.song@vodafone.com
+Sub-task,VTVQA-5939,1576442,[AVSB]Exploratory around basic user journey  ,Open,10/May/23 12:50 PM,prasenjit.sinha@vodafone.com
+Bug,VTVQA-5908,1571976,STB got stuck in FTU and can't connect to any network,Open,01/May/23 4:15 PM,alexandros.kalogiros@vodafone.com
+Sub-task,VTVQA-5895,1569554,[ES-PROD][STB] Sprint 101 Pre Gold Build - Stability tests for network stability of Gen1 Thyssen STB and VSB,In Progress,27/Apr/23 10:07 AM,gaurav.suramwar@vodafone.com
+Task,VTVQA-5651,1496887,Test Prep,Open,24/Apr/23 8:11 AM,dragoscatalin.olaru@vodafone.com
+Initiative,VTVQA-5876,1566030,test for Jorge,Open,18/Apr/23 9:24 AM,dragoscatalin.olaru@vodafone.com
+Sub-task,VTVQA-5826,1550744,[CZ PROD] Exploratory ticket to track the all-environment limitation related tickets on GEN3.,In Progress,13/Apr/23 2:33 PM,karpagaraj.m@vodafone.com
+Task,VTVQA-5564,1485008,Confirm app name for ES (group string is mandatory?),Open,12/Apr/23 4:23 PM,jorgehenrique.soaresmarques@vodafone.com
+Task,VTVQA-5804,1527572,[R6.1]Automation Development: Feature TVGuide: P1 Test Cases,Open,12/Apr/23 10:20 AM,akshaysanjay.manglekar@vodafone.com
+Sub-task,VTVQA-5844,1556174,[CZ GEN3] Mass Production - Release 21.2,Open,06/Apr/23 12:36 PM,umesh.gorela@vodafone.com
+Sub-task,VTVQA-5848,1558891,[Gen3][Sprint 21.3][FW 2.21.11 ] Exploratory test around OTA upgrade,Open,04/Apr/23 12:52 PM,rajvardhan.chouhan@vodafone.com
+Sub-task,VTVQA-5832,1553278,[Gen 3] Release 21.2 - FTU and BLE RCU Pairing Exploratory,In Progress,31/Mar/23 7:40 AM,umesh.gorela@vodafone.com
+Sub-task,VTVQA-5835,1554373,[GEN3][Release 21.2]Exploratory around Maintenance.,In Progress,29/Mar/23 10:49 AM,omkar.patil4@vodafone.com
+Task,VTVQA-2638,1122020,[STV/ATV] Task to identify and Track new scenarios for Script Development,Open,27/Mar/23 9:05 AM,mayur.narendranarnaware@vodafone.com
+Task,VTVQA-5833,1553453,Update Master Matrix for Behavioral Consumption and Technical,Open,24/Mar/23 2:03 PM,gaurav.suramwar@vodafone.com
+Config Change,VTVQA-5676,1506075, [Automation Prod] [STB][Gen 2 Entry] Main ticket to track DMS configuration of OTA upgrade to Sprint 98G in VCOEQA_OTA DMS group,Open,20/Mar/23 12:19 PM,kuldeep.singh1@vodafone.com
+Config Change,VTVQA-5810,1546809,[PT PROD] Need to Whitelist IP addresses of Pune lab,Open,17/Mar/23 3:37 PM,mohanishkumar.patil@vodafone.com
+Config Change,VTVQA-3095,1166669,[PT PROD] [All platform] Need to Whitelist new IP addresses of Pune lab,Open,14/Mar/23 9:23 AM,sumit.alhat@vodafone.com
+Sub-task,VTVQA-5437,1463279,[ES PROD][VSB][AutomationSTBs] [Kloud]OTA upgrade on VSB PROD STBs in KLOUD_VCoE_THYSSEN DMS group from FTTH/HFC S98C BP00 to S99 BP00,Open,14/Mar/23 7:46 AM,kuldeep.singh1@vodafone.com
+Task,VTVQA-5787,1519448,[Exploratory] [AVSB] Audio Testing _Dolby/Dolby Atmos workflow.,Open,27/Feb/23 1:02 PM,tarkeshwer.yadav@vodafone.com
+Sub-task,VTVQA-5791,1520281,[tvOS][S32]Exploratory on tvOS,In Progress,24/Feb/23 3:36 PM,snehal.khandekar@vodafone.com
+Task,VTVQA-5793,1520766,Disney Plus Script Devlopement,Open,24/Feb/23 10:19 AM,rohit.balwantkanade@vodafone.com
+Task,VTVQA-5515,1478735,AVSB Testcase development - Settings ,Open,21/Feb/23 3:24 PM,sainath.wakpate@vodafone.com
+Task,VTVQA-5490,1474330,Concurrency via security redesign ph3,Open,17/Feb/23 7:05 AM,parag.karnik4@vodafone.com
+Sub-task,VTVQA-5765,1516238,"[Sprint 101FAEB][Gen2]Exploratory on STB Stability on Standby, Power ON.",Open,14/Feb/23 1:32 PM,md.alvi@vodafone.com
+Task,VTVQA-5441,1463534,Need to add EPGoCDN parameter in DMS,Open,10/Feb/23 4:06 PM,snehal.khandekar@vodafone.com
+Task,VTVQA-5519,1479043,AVSB Testcase development-Shekhar,Open,09/Feb/23 12:12 PM,shekhar.waghmode@vodafone.com
+Task,VTVQA-4651,1361440,Mobile Pune Limitations for Albania Prod.,Open,07/Feb/23 2:27 PM,prathama.gaikwad@vodafone.com
+Task,VTVQA-5737,1510585,[AGEN3][PROD]Provisioning Request of DE and ES GEN3 FUT HW in PROD with new HH,Open,07/Feb/23 11:55 AM,stefan.boehm@vodafone.com
+Epic,VTVQA-5649,1496882,Mobile ART,Open,03/Feb/23 4:01 PM,dragoscatalin.olaru@vodafone.com
+Task,VTVQA-5650,1496885,Env/Config FE + BE,Open,01/Feb/23 6:18 PM,dragoscatalin.olaru@vodafone.com
+Task,VTVQA-5622,1494265,[HU] - Generation 3 ,Open,31/Jan/23 1:16 PM,david.masubo@vodafone.com
+Sub-task,VTVQA-5712,1508498,R6.1 Mobile - [VTV App] Analysis,Open,31/Jan/23 7:54 AM,amruta.khandare@vodafone.com
+Sub-task,VTVQA-5702,1507998,[AVSB][Mcast]Exploratory testing on Player feature,Open,30/Jan/23 7:46 AM,omkar.patil4@vodafone.com
+Sub-task,VTVQA-5692,1507338,[PT PROD] [STB] [AutomationSTBs] OTA upgrade on PT PROD STBs in VCOEQA OTA DMS group from Sprint 100 FAEB BP02 to Sprint 101 FAEB BP02,Open,27/Jan/23 3:12 PM,kuldeep.singh1@vodafone.com
+Sub-task,VTVQA-5690,1507336,[CZ PROD] [STB] [AutomationSTBs] OTA upgrade on CZ PROD STBs in VCOEQA OTA DMS group from Sprint 100 FAEB BP02 to Sprint 101 FAEB BP02,Open,27/Jan/23 3:12 PM,kuldeep.singh1@vodafone.com
+Sub-task,VTVQA-5695,1507341,[AL PROD] [STB] [AutomationSTBs] OTA upgrade on AL PROD STBs in VCOEQA OTA DMS group from Sprint 100 FAEB BP02 to Sprint 101 FAEB BP02,Open,27/Jan/23 3:11 PM,kuldeep.singh1@vodafone.com
+Sub-task,VTVQA-5694,1507340,[RO PROD] [STB] [AutomationSTBs] OTA upgrade on RO PROD STBs in VCOEQA OTA DMS group from Sprint 100 FAEB BP02 to Sprint 101 FAEB BP02,Open,27/Jan/23 3:11 PM,kuldeep.singh1@vodafone.com
+Sub-task,VTVQA-5691,1507337,[HU PROD] [STB] [AutomationSTBs] OTA upgrade on HU PROD STBs in VCOEQA OTA DMS group from Sprint 100 FAEB BP02 to Sprint 101 FAEB BP02,Open,27/Jan/23 3:11 PM,kuldeep.singh1@vodafone.com
+Sub-task,VTVQA-5689,1507335,[DE PROD] [STB] [AutomationSTBs] OTA upgrade on DE PROD STBs in VCOEQA_OTA DMS group from Sprint 100 FAEB BP02 to Sprint 101 FAEB BP02,Open,27/Jan/23 3:05 PM,kuldeep.singh1@vodafone.com
+Sub-task,VTVQA-5693,1507339,[GR PROD] [STB] [AutomationSTBs] OTA upgrade on GR PROD STBs in VCOEQA_OTA DMS group from Sprint 100 FAEB BP02 to Sprint 101 FAEB BP02,Open,27/Jan/23 3:05 PM,kuldeep.singh1@vodafone.com
+Config Change,VTVQA-5688,1507334,[Automation Prod] [STB][Gen 0/1/2] Main ticket to track DMS configuration of OTA upgrade to Sprint 101 FAEB in VCOEQA_OTA DMS group,Open,27/Jan/23 8:32 AM,kuldeep.singh1@vodafone.com
+Config Change,VTVQA-5539,1482645,[Automation Prod] [STB][Gen 0/1/2] Main ticket to track DMS configuration of OTA upgrade to Sprint 100 FAEB in VCOEQA_OTA DMS group,Open,27/Jan/23 8:32 AM,kuldeep.singh1@vodafone.com
+Config Change,VTVQA-5582,1488679,[Automation Prod] [STB][Gen 0/1/2] Main ticket to track DMS configuration of OTA upgrade to Sprint 98E in VCOEQA_OTA DMS group,Open,24/Jan/23 1:07 PM,biyyapu.ganesh@vodafone.com
+Task,VTVQA-4140,1306098,TF50.100 - White Label Application,Open,24/Jan/23 9:20 AM,simona.keravuo@vodafone.com
+Sub-task,VTVQA-1620,944094,DolbyAtmos (Base Config),Open,24/Jan/23 9:19 AM,prathama.gaikwad@vodafone.com
+Task,VTVQA-5660,1497974,Automation Development : 3rd Party app/ AppleTV stability,Open,23/Jan/23 10:52 AM,kuldeep.singh1@vodafone.com
+Task,VTVQA-5662,1498710,[CZ PROD][Android][S103] Mobile - User based Scenarios_Exploratory Test,Open,16/Jan/23 9:32 AM,michaela.rytirova@vodafone.com
+Sub-task,VTVQA-5659,1497911,[TVOS][S31] Exploratory performed on TV Guide ,Open,13/Jan/23 7:50 AM,amruta.khandare@vodafone.com
+Task,VTVQA-5569,1485656,[GR PROD] Error Message Could Unblock PC Protected Contents,Open,11/Jan/23 3:01 PM,chengyang.song@vodafone.com
+Task,VTVQA-5623,1494271,[CZ_PROD] STB Gen3 Issues,Open,06/Jan/23 11:13 AM,michaela.rytirova@vodafone.com
+Task,VTVQA-5516,1478821,AVSB Testcase development - Diwakar,Open,02/Jan/23 4:10 PM,diwakar.amboji@vodafone.com
+Task,VTVQA-5532,1480602,Re-configure the API GW FE endpoints in PROD,Open,28/Dec/22 10:14 AM,shruti.braun@vodafone.com
+Task,VTVQA-5603,1491292,Provisioning of AVSB - PT PROD,Open,21/Dec/22 4:25 PM,shruti.braun@vodafone.com
+Sub-task,VTVQA-5594,1490251,[GEN 3][S19] Exploratory test around OTA upgrade,Open,19/Dec/22 10:53 AM,umesh.gorela@vodafone.com
+Config Change,VTVQA-5293,1443790,[IE PROD] [All platform] Need to Whitelist public IP addresses of Pune and Munich lab,Open,13/Dec/22 1:17 PM,deepika.thakkar@vodafone.com
+Sub-task,VTVQA-5555,1484394,[AVSB] Exploratory for HDR and 4K content playback,Open,12/Dec/22 12:41 PM,sarfaraz.memon@vodafone.com
+Sub-task,VTVQA-5572,1485941,STB S100FAEB: GR Prod:  Power Consumption ,In Progress,09/Dec/22 3:27 PM,gaurav.suramwar@vodafone.com
+Sub-task,VTVQA-5549,1483318,Exploratory on 3rd party App (Apple TV),Open,09/Dec/22 8:41 AM,snehal.khandekar@vodafone.com
+Task,VTVQA-5242,1437103,Playback Microservice and Sharp Start implementation Master ticket,In Progress,08/Dec/22 12:32 PM,parag.karnik4@vodafone.com
+Sub-task,VTVQA-5538,1481921,[AVSB][PT-ATP] Exploratory NRT EPG,Open,06/Dec/22 3:08 PM,sarfaraz.memon@vodafone.com
+Config Change,VTVQA-5427,1463268,[Automation Prod] [STB][Gen 0/1/2] Main ticket to track DMS configuration of OTA upgrade to Sprint 99 in VCOEQA_OTA DMS group,Open,02/Dec/22 9:34 AM,kuldeep.singh1@vodafone.com
+Sub-task,VTVQA-5464,1466969,Provisioning Layer Ph2,In Progress,02/Dec/22 9:27 AM,parag.karnik4@vodafone.com
+Sub-task,VTVQA-5533,1480841,[R6.1][S18] General Exploratory on Gen 3,Open,30/Nov/22 8:57 AM,snehal.khandekar@vodafone.com
+Task,VTVQA-1602,941131,Smart TV Test Execution,Open,28/Nov/22 11:44 AM,anuj.kumar19@vodafone.com
+Sub-task,VTVQA-5507,1477897,Rolling Buffer to Live Enhancement Exploratory,Open,28/Nov/22 7:04 AM,ritika.khanduri@vodafone.com
+Task,VTVQA-5494,1474830,[VCS] Need VCS PROD access,Open,16/Nov/22 3:05 PM,ritika.khanduri@vodafone.com
+Task,VTVQA-5493,1474820,[VFIE] Ireland PROD subscriptions and configuration,Open,16/Nov/22 10:16 AM,ritika.khanduri@vodafone.com
+Story,VTVQA-5481,1470697,Environment and config completion for all device platforms (ATP + PROD),Open,14/Nov/22 3:16 PM,shruti.braun@vodafone.com
+Sub-task,VTVQA-5124,1422810,AVSB: [Cheat Menu][S14]Developer Mode (FTU & Settings),Open,14/Nov/22 3:03 PM,pushkar.shamkantkulkarni@vodafone.com
+Task,VTVQA-5473,1468906, [AVSB][PT]Provisioning Request of new GEN 3 Android PT Alpha HW in PT PROD,Open,07/Nov/22 10:20 AM,mohanishkumar.patil@vodafone.com
+Task,VTVQA-5476,1469781,[STB][S99][IT] - Third Party App (Now TV),Open,04/Nov/22 4:52 PM,solange.oliveira@vodafone.com
+Task,VTVQA-5463,1466863,[ES PROD] Need login credentials for Kcloud domains,Open,03/Nov/22 3:19 PM,ritika.khanduri@vodafone.com
+Task,VTVQA-5470,1468095,[AVSB][PT]Provisioning Request of new PT AVSB Mass Production HW in PT PROD,Open,03/Nov/22 11:51 AM,mohanishkumar.patil@vodafone.com
+Sub-task,VTVQA-5460,1465926,[AL PROD] [STB] [AutomationSTBs] OTA upgrade on AL PROD STBs in VCOEQA OTA DMS group from Sprint 98B BP02 to Sprint 98D BP02,Open,26/Oct/22 2:11 PM,biyyapu.ganesh@vodafone.com
+Sub-task,VTVQA-5457,1465923,[IT PROD] [STB][GEN1] [AutomationSTBs] OTA upgrade on IT PROD Gen1 STBs in VCOEQA OTA DMS group from Sprint 98B BP02 to Sprint 98D BP02,Open,26/Oct/22 2:10 PM,biyyapu.ganesh@vodafone.com
+Sub-task,VTVQA-5455,1465921,[RO PROD] [STB] [AutomationSTBs] OTA upgrade on RO PROD STBs in VCOEQA OTA DMS group from Sprint 98B BP02 to Sprint 98D BP02,Open,26/Oct/22 2:10 PM,biyyapu.ganesh@vodafone.com
+Sub-task,VTVQA-5454,1465920,[GR PROD] [STB] [AutomationSTBs] OTA upgrade on GR PROD STBs in VCOEQA_OTA DMS group from Sprint 98B BP02 to Sprint 98D BP02,Open,26/Oct/22 2:10 PM,biyyapu.ganesh@vodafone.com
+Sub-task,VTVQA-5453,1465919,[PT PROD] [STB] [AutomationSTBs] OTA upgrade on PT PROD STBs in VCOEQA OTA DMS group from Sprint 98B BP02 to Sprint 98D BP02,Open,26/Oct/22 2:10 PM,biyyapu.ganesh@vodafone.com
+Sub-task,VTVQA-5452,1465918,[HU PROD] [STB] [AutomationSTBs] OTA upgrade on HU PROD STBs in VCOEQA OTA DMS group from Sprint 98B BP02 to Sprint 98D BP02,Open,26/Oct/22 2:10 PM,biyyapu.ganesh@vodafone.com
+Sub-task,VTVQA-5451,1465917,[CZ PROD] [STB] [AutomationSTBs] OTA upgrade on CZ PROD STBs in VCOEQA OTA DMS group from Sprint 98B BP02 to Sprint 98D BP02,Open,26/Oct/22 2:10 PM,biyyapu.ganesh@vodafone.com
+Sub-task,VTVQA-5450,1465916,[DE PROD] [STB] [AutomationSTBs] OTA upgrade on DE PROD STBs in VCOEQA_OTA DMS group from Sprint 98B BP02 to  Sprint 98D BP02,Open,26/Oct/22 2:10 PM,biyyapu.ganesh@vodafone.com
+Sub-task,VTVQA-5461,1465927,CLONE - [ES PROD] [STB] [AutomationSTBs] [Kloud]OTA upgrade on ES PROD STBs in KLOUD_VCoE_THYSSEN DMS group from Sprint 98C BP 00 / 98C BP 02 to Sprint 99 BP 00 / 99 BP 02,Open,26/Oct/22 1:53 PM,biyyapu.ganesh@vodafone.com
+Sub-task,VTVQA-5459,1465925,CLONE - [ES PROD][VSB][AutomationSTBs] [Kloud]OTA upgrade on VSB PROD STBs in KLOUD_VCoE_THYSSEN DMS group from FTTH/HFC S98C BP00 to S99 BP00,Open,26/Oct/22 1:53 PM,biyyapu.ganesh@vodafone.com
+Sub-task,VTVQA-5456,1465922,CLONE - [IT PROD] [STB][GEN2] [AutomationSTBs] OTA upgrade on IT PROD Gen2 STBs in VCOEQA OTA DMS group from Sprint 98B BP02 to Sprint 99 BP02,Open,26/Oct/22 1:53 PM,biyyapu.ganesh@vodafone.com
+Config Change,VTVQA-5179,1428767,"[ES PROD] [STB] Need TLMShortcutLayout Changed to ""5"" for NEBA STB",Open,21/Oct/22 3:25 PM,chengyang.song@vodafone.com
+Config Change,VTVQA-5348,1453511, [Automation Prod] [STB][Gen 0/1/2] Main ticket to track DMS configuration of OTA upgrade to Sprint 98B in VCOEQA_OTA DMS group,Open,20/Oct/22 10:59 AM,kuldeep.singh1@vodafone.com
+Task,VTVQA-4975,1399152,[Performance] TCs for development : STB Witbe Usecases Playback usecases,Open,20/Oct/22 8:39 AM,sainath.wakpate@vodafone.com
+Config Change,VTVQA-5424,1462964,[GR PROD] [STB] Modify DMS configuration of Sprint 98,Open,19/Oct/22 4:11 PM,gaurav.suramwar@vodafone.com
+Config Change,VTVQA-5036,1411884,[IT PROD] [STB] Modify DMS configuration of Sprint 96,Open,19/Oct/22 3:53 PM,gaurav.suramwar@vodafone.com
+Config Change,VTVQA-5035,1411872,[DE PROD] [STB] Modify DMS configuration of Sprint 96,Open,19/Oct/22 3:53 PM,gaurav.suramwar@vodafone.com
+Config Change,VTVQA-5033,1411836,[HU PROD] [STB] Modify DMS configuration of Sprint 96,Open,19/Oct/22 3:53 PM,suryakant.mandavkar@vodafone.com
+Task,VTVQA-4959,1397264,User logout from the client app to result in the deletion of the device,Open,18/Oct/22 12:33 PM,parag.karnik4@vodafone.com
+Config Change,VTVQA-5419,1461415,[ES PROD][VSB]Need to provision VSBs in ES PROD with NEBA,Open,17/Oct/22 11:23 AM,gaurav.suramwar@vodafone.com
+Config Change,VTVQA-5405,1459638,[PT Prod]- PT GEN3 Alpha HW Provisioning in PROD (Android),Open,13/Oct/22 4:44 PM,shruti.braun@vodafone.com
+Sub-task,VTVQA-5403,1459071,[STB][PROD][S98x] Boot-up from Offline Mode,Open,10/Oct/22 3:01 PM,chengyang.song@vodafone.com
+Sub-task,VTVQA-4999,1404407,[TV OS ] Performance TC's development for Apple TV,In Progress,30/Sep/22 2:50 PM,biyyapu.ganesh@vodafone.com
+Sub-task,VTVQA-5359,1453522,[AL PROD] [STB] [AutomationSTBs] OTA upgrade on AL PROD STBs in VCOEQA OTA DMS group from Sprint 98 BP02 to Sprint 98B BP02,Open,27/Sep/22 2:47 PM,kuldeep.singh1@vodafone.com
+Sub-task,VTVQA-5355,1453518,[IT PROD] [STB][GEN2] [AutomationSTBs] OTA upgrade on IT PROD Gen2 STBs in VCOEQA OTA DMS group from Sprint 98 BP02 to Sprint 98B BP02,Open,27/Sep/22 2:46 PM,kuldeep.singh1@vodafone.com
+Sub-task,VTVQA-5354,1453517,[RO PROD] [STB] [AutomationSTBs] OTA upgrade on RO PROD STBs in VCOEQA OTA DMS group from Sprint 98 BP02 to Sprint 98B BP02,Open,27/Sep/22 2:45 PM,kuldeep.singh1@vodafone.com
+Sub-task,VTVQA-5353,1453516,[GR PROD] [STB] [AutomationSTBs] OTA upgrade on GR PROD STBs in VCOEQA_OTA DMS group from Sprint 98 BP02 to Sprint 98B BP02,Open,27/Sep/22 2:45 PM,kuldeep.singh1@vodafone.com
+Sub-task,VTVQA-5352,1453515,[PT PROD] [STB] [AutomationSTBs] OTA upgrade on PT PROD STBs in VCOEQA OTA DMS group from Sprint 98 BP02 to Sprint 98B BP02,Open,27/Sep/22 2:45 PM,kuldeep.singh1@vodafone.com
+Sub-task,VTVQA-5351,1453514,[HU PROD] [STB] [AutomationSTBs] OTA upgrade on HU PROD STBs in VCOEQA OTA DMS group from Sprint 98 BP02 to Sprint 98B BP02,Open,27/Sep/22 2:44 PM,kuldeep.singh1@vodafone.com
+Sub-task,VTVQA-5356,1453519,[IT PROD] [STB][GEN1] [AutomationSTBs] OTA upgrade on IT PROD Gen1 STBs in VCOEQA OTA DMS group from Sprint 98 BP02 to Sprint 98B BP02,Open,27/Sep/22 2:44 PM,kuldeep.singh1@vodafone.com
+Sub-task,VTVQA-5350,1453513,[CZ PROD] [STB] [AutomationSTBs] OTA upgrade on CZ PROD STBs in VCOEQA OTA DMS group from Sprint 98 BP02 to Sprint 98B BP02,Open,27/Sep/22 2:44 PM,kuldeep.singh1@vodafone.com
+Sub-task,VTVQA-5357,1453520,[ES PROD] [STB] [AutomationSTBs] OTA upgrade on ES PROD STBs in VCOEQA OTA DMS group from Sprint 98 BP 00 / 98 BP 02 to Sprint 98B BP 00 / 98B BP 02,Open,27/Sep/22 2:15 PM,kuldeep.singh1@vodafone.com
+Config Change,VTVQA-5272,1441847,[Automation Prod] [STB][Gen 0/1/2] Main ticket to track DMS configuration of OTA upgrade to Sprint 98 in VCOEQA_OTA DMS group,Open,27/Sep/22 1:49 PM,kuldeep.singh1@vodafone.com
+Task,VTVQA-5343,1452854,[PT PROD][VCOEQA EB] Add STB to PT PROD EB group,Open,26/Sep/22 3:06 PM,solange.oliveira@vodafone.com
+Task,VTVQA-5315,1449414,[PROD]Provisioning of new PT AVSB MassProd HW,Open,20/Sep/22 5:20 PM,shruti.braun@vodafone.com
+Story,VTVQA-5313,1449171,Provisioning of new PT AVSB MassProd HW,Open,20/Sep/22 1:18 PM,stefan.boehm@vodafone.com
+Task,VTVQA-5300,1446763,Changing the APIGW in PROD to new endpoints,Open,14/Sep/22 11:58 AM,shruti.braun@vodafone.com
+Bug,VTVQA-5269,1441005,Provisioning of Irland AVSB Alpha HW,Open,08/Sep/22 4:28 PM,stefan.boehm@vodafone.com
+Config Change,VTVQA-3089,1166623,[All PROD] [All platform] Main ticket to track progress of Whitelisting of Pune lab new IP addresses,Open,07/Sep/22 1:43 PM,sumit.alhat@vodafone.com
+Task,VTVQA-5292,1443742,[GR PROD] STB Stucks on Kids App Launching Animation Screen when Recommendation is ON,Open,07/Sep/22 12:54 PM,chengyang.song@vodafone.com
+Config Change,VTVQA-5291,1443181,[IT PROD] [STB] Need Activation of EPGoverCDN for Gen1 STB,Open,06/Sep/22 5:41 PM,chengyang.song@vodafone.com
+Config Change,VTVQA-5125,1422817,[Automation Prod] [STB][Gen 0/1/2] Main ticket to track DMS configuration of OTA upgrade to Sprint 97 in VCOEQA_OTA DMS group,Open,05/Sep/22 9:28 AM,kuldeep.singh1@vodafone.com
+Config Change,VTVQA-5257,1440046,[DE PROD] [STB][FAE] [AutomationSTBs] OTA upgrade on DE PROD STBs in VCOEQA_EB DMS group from Sprint 97 BP02 to Sprint 98FAE BP02,Open,30/Aug/22 12:48 PM,kuldeep.singh1@vodafone.com
+Sub-task,VTVQA-5243,1437172,Exploratory on Security Redesign Ph2- VTV app,Open,24/Aug/22 3:10 PM,snehal.khandekar@vodafone.com
+Sub-task,VTVQA-5235,1435557,R6.1 (Mobile)(SDK)S99- (PIP to native implementation),Open,23/Aug/22 9:00 AM,amruta.khandare@vodafone.com
+Sub-task,VTVQA-5205,1432970,[MOBILE][S99][HU] - Download to Play,Open,17/Aug/22 10:51 AM,david.masubo@vodafone.com
+Sub-task,VTVQA-5220,1434077,[AVSB][S15][PT PROD] - Third Party App (Disney+),Open,16/Aug/22 9:02 AM,chengyang.song@vodafone.com
+Epic,VTVQA-5219,1434072,Android VSB Exploratory Tests,Open,16/Aug/22 8:44 AM,chengyang.song@vodafone.com
+Config Change,VTVQA-5193,1431972,ES PROD] [Mobile]: Remove/Add device from VCOEQA DMS group,Open,10/Aug/22 1:00 PM,anand.kumar3@vodafone.com
+Sub-task,VTVQA-5184,1429450,[RLE] STB UI: handling MW notification for SSP-CAS and SSP-DRM licenses.,Open,04/Aug/22 4:17 PM,rajvardhan.chouhan@vodafone.com
+Task,VTVQA-5167,1427680,Local/External Recording ,Open,01/Aug/22 12:18 PM,parag.karnik4@vodafone.com
+Sub-task,VTVQA-4756,1376680,Recording Master ticket,Open,01/Aug/22 12:17 PM,parag.karnik4@vodafone.com
+Sub-task,VTVQA-1617,944091, Analysis of the Specifications,Open,28/Jul/22 2:49 PM,prathama.gaikwad@vodafone.com
+Task,VTVQA-1616,944090,DolbyAtmos- Test Preparation,Open,28/Jul/22 2:49 PM,prathama.gaikwad@vodafone.com
+Sub-task,VTVQA-4369,1329293,[R6.1] [S90B] -GEN1-ES-PROD-HDMI-CEC (Exploratory),Open,22/Jul/22 1:02 PM,gaurav.suramwar@vodafone.com
+Task,VTVQA-5087,1417561,"[GR PROD] ""Network Configuration Reading Failure"" Appears afterLong Duration TV Watching",Open,21/Jul/22 7:36 AM,chengyang.song@vodafone.com
+Task,VTVQA-5029,1410850,[CENC]-Jobs - All jobs related use cases,Open,19/Jul/22 5:28 PM,parag.karnik4@vodafone.com
+Task,VTVQA-5028,1410849,Master ticket for the Cloud Encoding,Open,13/Jul/22 6:41 PM,parag.karnik4@vodafone.com
+Task,VTVQA-5094,1418703,[CENC] - Storage Credentials/Platforms,Open,13/Jul/22 6:41 PM,parag.karnik4@vodafone.com
+Config Change,VTVQA-5066,1415892,[PT Prod]- PT GEN3 FUT HW Provisioning in PROD,Open,12/Jul/22 4:00 PM,stefan.boehm@vodafone.com
+Sub-task,VTVQA-4998,1404406,[TV OS ] Sanity TC's development for Apple TV,In Progress,11/Jul/22 1:08 PM,biyyapu.ganesh@vodafone.com
+Task,VTVQA-5083,1417328,[RO PROD] [STB] [AutomationSTBs] OTA upgrade on RO PROD STBs in VCOEQA OTA DMS group from Sprint 96 BP02 to Sprint 96B BP10,Open,07/Jul/22 1:57 PM,kuldeep.singh1@vodafone.com
+Task,VTVQA-5080,1417310,[HU PROD] [STB] [AutomationSTBs] OTA upgrade on HU PROD STBs in VCOEQA OTA DMS group from Sprint 96 BP02 to Sprint 96B BP10,Open,07/Jul/22 1:27 PM,kuldeep.singh1@vodafone.com
+Task,VTVQA-5072,1416599,Mitigate VTVQA-5069: Feedback from CyberSecurity team - white listing domains,Open,06/Jul/22 11:15 AM,jorgehenrique.soaresmarques@vodafone.com
+Task,VTVQA-5070,1416590,Mitigate VTVQA-5069: Explore the possibility to install Studio Remote Debugger 2019 on VF HW,In Progress,06/Jul/22 11:13 AM,jorgehenrique.soaresmarques@vodafone.com
+Task,VTVQA-5057,1414805,[Swoosh][Mobile] Exploratory on Swoosh,Open,05/Jul/22 11:49 AM,amruta.khandare@vodafone.com
+Sub-task,VTVQA-5000,1404408,[TV OS ] Stability TC's development for Apple TV,In Progress,27/Jun/22 1:44 PM,biyyapu.ganesh@vodafone.com
+Config Change,VTVQA-4753,1376285,Configuration require for GetMenu to display the Adult rail under MYTV and VOD section.,Open,17/Jun/22 12:04 PM,vikas.yadav2@vodafone.com
+Bug,VTVQA-5008,1406458,[HU PROD] [Mobile] Adding device to VCOEQA DMS group,Open,16/Jun/22 11:42 AM,snehal.khandekar@vodafone.com
+Task,VTVQA-4997,1404405,[TV oS ] Apple TV Automation Development Activities,Open,13/Jun/22 6:49 AM,biyyapu.ganesh@vodafone.com
+Config Change,VTVQA-4649,1360944,[DE PROD][Mobile] Add devices to VCOEQA DMS group,Open,07/Jun/22 4:56 PM,anand.kumar3@vodafone.com
+Task,VTVQA-4787,1379882,[Performance] TCs for development : STB Witbe Usecases,Open,01/Jun/22 2:34 PM,sainath.wakpate@vodafone.com
+Task,VTVQA-4920,1393431,[R6.1][Gen2][S95B][CZ] - Maintenance,In Progress,30/May/22 10:08 AM,solange.oliveira@vodafone.com
+Config Change,VTVQA-4941,1394727,Need to add Alexa Settings in DMS for DE Prod,Open,26/May/22 2:59 PM,sachin.baburaoande@vodafone.com
+Task,VTVQA-4864,1387832, [PT PROD] STB GEN3 provision in PT PROD,Open,23/May/22 10:17 AM,shruti.braun@vodafone.com
+Epic,VTVQA-4905,1392591,WebTV v2.0 - Exploratory test container,Open,19/May/22 12:00 PM,sumit.kumar53@vodafone.com
+Task,VTVQA-4914,1393249,[RO DMS configs]Clarification on Default configs ,Open,19/May/22 10:04 AM,shruti.braun@vodafone.com
+Config Change,VTVQA-4921,1393532,"[GR PROD] [STB] ""ParentalLockTimeoutMinutes"" Change to ""5""",Open,18/May/22 8:43 PM,chengyang.song@vodafone.com
+Task,VTVQA-3966,1272089,Inclusion & Exclusion,Open,16/May/22 8:40 AM,simona.keravuo@vodafone.com
+Config Change,VTVQA-4890,1389751,[DE PROD] [STB][GEN2] [AutomationSTBs] OTA upgrade on DE PROD Gen2 STBs in VCOEQA_EB DMS group from S93 FAEB BP02/BP10 to S95 FAEB BP02/BP10,Open,13/May/22 10:54 AM,pushkar.shamkantkulkarni@vodafone.com
+Config Change,VTVQA-4884,1388937,[RO PROD] [STB] Remove Values Blocking HDMI CEC,Open,10/May/22 3:25 PM,chengyang.song@vodafone.com
+Config Change,VTVQA-4842,1385558,Need to align the 'VCOEQA' & 'VCOEQA-OTA' DMS group for GR Prod,Open,02/May/22 5:00 PM,pushkar.shamkantkulkarni@vodafone.com
+Task,VTVQA-4818,1384362,[AVSB][PT-PROD] Need information on QR code configurations for Unsubscribed Channel Requirement.,Open,29/Apr/22 12:04 PM,deepika.thakkar@vodafone.com
+Config Change,VTVQA-4817,1384361,"Need to remove the ""WiFiSettings"" parameter inside GR PROD VCOEQA DMS",Open,29/Apr/22 9:46 AM,pushkar.shamkantkulkarni@vodafone.com
+Task,VTVQA-4702,1370121,API GWW BE Seamless Provisioning of the devices and Netflix C2B implementation,Open,27/Apr/22 2:51 PM,parag.karnik4@vodafone.com
+Task,VTVQA-4091,1300607,Android VSB - Test Set,Open,22/Apr/22 2:44 PM,simona.keravuo@vodafone.com
+Task,VTVQA-3541,1224303,[R6.0][Legacy] Guide TCs for development : STB - Legacy Features/TV Guide (EPG)/ EPG - P1 Test Set Set 2,Open,20/Apr/22 10:04 AM,sainath.wakpate@vodafone.com
+Task,VTVQA-4765,1377623,[WebTV] Initial evaluation of limited  test Env. and channel line up,Open,13/Apr/22 2:58 PM,shruti.braun@vodafone.com
+Config Change,VTVQA-4760,1377132,Need to align the 'VCOEQA' DMS group with 'DEFAULT' DMS group for Albania Prod,Open,12/Apr/22 2:23 PM,vikas.yadav2@vodafone.com
+Config Change,VTVQA-4748,1375071,Request to change Endpoints to HTTP for the Alpha Group,Open,08/Apr/22 1:13 PM,hugo.pereira9@vodafone.com
+Config Change,VTVQA-4685,1366527,[PT PROD][STB] Android VSB Provisioning into PT PROD,Open,05/Apr/22 12:27 PM,mohanishkumar.patil@vodafone.com
+Sub-task,VTVQA-4692,1368720,STB Sprint 92B - Exploratory test around Day Light Saving Time,Open,29/Mar/22 4:15 PM,sumit.alhat@vodafone.com
+Task,VTVQA-3432,1211093,R6.0 : Legacy : PF31 - Kids Mode/Kids- P1 Test Set : Bookmarks Recordings,Open,28/Mar/22 1:47 PM,sainath.wakpate@vodafone.com
+Task,VTVQA-4699,1369378,Implementation of the Mapping services,Open,28/Mar/22 12:40 PM,parag.karnik4@vodafone.com
+Config Change,VTVQA-4103,1301209,[PT PROD][STB] STB Provisioning and Moving to corresponding VCOEQA DMS Group,In Progress,22/Mar/22 11:18 AM,sumit.alhat@vodafone.com
+Task,VTVQA-4661,1362769,Creation of VCOEQA EB Group for PT PROD,Open,15/Mar/22 3:52 PM,shruti.braun@vodafone.com
+Sub-task,VTVQA-3842,1256274,[R6.2] [STB S87]: Trick Modes - Exploratory - DE PROD,Open,10/Mar/22 12:37 PM,jorgehenrique.soaresmarques@vodafone.com
+Config Change,VTVQA-4589,1352560, [ES PROD] [Mobile] Adding device to VCOEQA DMS group,Open,08/Mar/22 4:18 PM,deepika.thakkar@vodafone.com
+Bug,VTVQA-4623,1357306,Clarifications for SANA traces process,Open,03/Mar/22 4:36 PM,alexandros.kalogiros@vodafone.com
+Task,VTVQA-4565,1350098,[ATP][TVOS] Config Management & build evaluation,Open,16/Feb/22 9:54 AM,shruti.braun@vodafone.com
+Config Change,VTVQA-4532,1346911,[DE PROD]Remove noCECStack from S92 DMS groups,Open,09/Feb/22 4:05 PM,shruti.braun@vodafone.com
+Task,VTVQA-4300,1323118,Watermarking Test Set,Open,04/Feb/22 11:40 AM,simona.keravuo@vodafone.com
+Task,VTVQA-4477,1343036,Apple TV - Test Set,Open,01/Feb/22 5:40 PM,simona.keravuo@vodafone.com
+Task,VTVQA-3613,1230617,Mobile HU PROD Limitation - Pune Team,Open,01/Feb/22 3:17 PM,deepika.thakkar@vodafone.com
+Task,VTVQA-3743,1246781,"PF14 - Player (PLYR, Player)/PF14.004.02 - Scrubber with Continuous Rewind for Live TV (SCRUBBER-LIVE)",In Progress,27/Jan/22 2:15 PM,ramesh.chandra2@vodafone.com
+Config Change,VTVQA-3096,1166670,[IT PROD] [All platform] Need to Whitelist new IP addresses of Pune lab,Open,27/Jan/22 2:06 PM,sumit.alhat@vodafone.com
+Sub-task,VTVQA-4411,1332324,Exploratory - S88J - Mass Production - FTU/RCU pairing for DE,Open,12/Jan/22 1:37 PM,umesh.gorela@vodafone.com
+Sub-task,VTVQA-4402,1331720,[Phase 2] Channel Mapping to DVB or MCAST ,Open,11/Jan/22 2:52 PM,shruti.braun@vodafone.com
+Sub-task,VTVQA-4403,1331726,[Phase 2] Split between channel naming and LCN mapping,Open,11/Jan/22 12:21 PM,shruti.braun@vodafone.com
+Task,VTVQA-4298,1322590,[Fast Channel Change] Need Information on Frequency- Transport Stream mapping for DVBC channels of CZ production,Open,06/Jan/22 8:06 PM,deepika.thakkar@vodafone.com
+Task,VTVQA-4286,1320582,[RO PROD][STB] Need to remove the GREEN key mapping from DMS configuration for Apps.json,Open,06/Jan/22 12:28 PM,mohanishkumar.patil@vodafone.com
+Sub-task,VTVQA-4368,1329246,[Phase 1] OTT line-up,Open,30/Dec/21 4:57 PM,shruti.braun@vodafone.com
+Sub-task,VTVQA-4366,1329244,[Phase 1] Align channel line up for different VPs,Open,30/Dec/21 4:39 PM,shruti.braun@vodafone.com
+Story,VTVQA-4365,1329227,[Work Stream 2] Channel Lineup Config ,Open,30/Dec/21 3:00 PM,shruti.braun@vodafone.com
+Task,VTVQA-4228,1315768,AVSB ATP DMS end-point / config ,Open,07/Dec/21 2:58 PM,dragoscatalin.olaru@vodafone.com
+Task,VTVQA-3130,1170138,Netflix Content Filtering,Open,07/Dec/21 9:41 AM,simona.keravuo@vodafone.com
+Config Change,VTVQA-3779,1250598,[IT PROD][STB]Need to provision STB's with CASID,Reopened,02/Dec/21 11:30 AM,pushkar.shamkantkulkarni@vodafone.com
+Config Change,VTVQA-4056,1282476,[DE PROD] Move STB to VCOEQA OTA DMS group ,In Progress,23/Nov/21 4:22 PM,sumit.alhat@vodafone.com
+Config Change,VTVQA-4068,1299107,[HU PROD][STB] STB Provisioning to corresponding VCOEQA DMS Group,Reopened,23/Nov/21 9:01 AM,sumit.alhat@vodafone.com
+Config Change,VTVQA-3632,1232617,[ES PROD] [STB] [AutomationSTBs] OTA upgrade on ES PROD STBs in VCOEQA DMS group from Sprint 84 BP00 / BP02 to Sprint 85 BP00 / BP02 respectively,Open,17/Nov/21 2:27 PM,sumit.alhat@vodafone.com
+Task,VTVQA-4180,1309455,Programme Info,Open,15/Nov/21 9:26 AM,rahul.tiwari4@vodafone.com
+Task,VTVQA-3740,1246066,"[R6.0][Legacy] STB - Features/PF14 - Player (PLYR, Player)/CI120 - Support for visual scrubber (SCRUBBER-LIVE)",Open,15/Nov/21 9:06 AM,biyyapu.ganesh@vodafone.com
+Config Change,VTVQA-4048,1281375,[AL PROD] DVBC parameters for Albania OpCo is NOT aligned per CZ/HU/RO in VCOEQA and Default DMS group for DVBC parameters,Open,10/Nov/21 6:01 PM,sumit.kumar53@vodafone.com
+Config Change,VTVQA-3745,1247181,[DE PROD] [Mobile/Tablet] Need to add rail split parameter in DMS,Open,27/Oct/21 7:38 PM,krushnali.nalawade@vodafone.com
+Task,VTVQA-3479,1215139,[R6] Automation Development : Feature : STB - Legacy Features/PF31 - Kids Mode/Kids- P1 Test Set_2,Open,20/Oct/21 12:09 PM,sainath.wakpate@vodafone.com
+Task,VTVQA-2688,1126092,[Production] Mobile App Exploratory Test Sessions,Open,19/Oct/21 4:24 PM,chengyang.song@vodafone.com
+Task,VTVQA-4063,1282947,[R6.1][Mobile][S89][DE] - Channel Reordering / Visibility with Swoosh,Open,19/Oct/21 3:11 PM,chengyang.song@vodafone.com
+Config Change,VTVQA-3098,1166672,[HU PROD] [All platform] Need to Whitelist new IP addresses of Pune lab,Open,12/Oct/21 11:36 AM,sumit.alhat@vodafone.com
+Config Change,VTVQA-3101,1166680,[GR PROD] [All platform] Need to Whitelist new IP addresses of Pune lab,Open,05/Oct/21 12:13 PM,sumit.alhat@vodafone.com
+Task,VTVQA-3764,1250364,User based/perspective scenario ,Open,01/Oct/21 9:59 AM,snehal.khandekar@vodafone.com
+Config Change,VTVQA-3766,1250499,[All PROD] [Mobile/Tablet] Main ticket to create cversion of Sprint 87 in VCOEQA DMS group,Open,01/Sep/21 9:34 AM,sumit.alhat@vodafone.com
+Config Change,VTVQA-3468,1213589,[NZ PROD][STB] Need to add noBlockOTTFallback under STBDisabledFeatureTableByCustomerType in Sprint 84,Open,26/Aug/21 10:19 PM,sumit.alhat@vodafone.com
+Config Change,VTVQA-3816,1254156,[IT PROD][STB] Create a VCOEQA OTA DMS group ,In Progress,20/Aug/21 7:16 PM,sumit.alhat@vodafone.com
+Sub-task,VTVQA-1300,911048,[NPVR]Development of ALM TCs,Open,20/Aug/21 11:22 AM,sainath.wakpate@vodafone.com
+Task,VTVQA-1161,897997,iOS iPad Script Development,In Progress,20/Aug/21 10:43 AM,mayur.narendranarnaware@vodafone.com
+Task,VTVQA-1351,918472,[Mobile] - Task to Bundle all Mobile Automation limitations (iOS & Android),Open,20/Aug/21 10:43 AM,mayur.narendranarnaware@vodafone.com
+Task,VTVQA-3569,1226079,[R6] Automation Development and Modification : [Feature: PIN Updates],Open,20/Aug/21 10:40 AM,kuldeep.singh1@vodafone.com
+Task,VTVQA-419,767669,Documentation of Automation Framework,In Progress,09/Aug/21 4:33 PM,ashu.gupta3@vodafone.com
+Config Change,VTVQA-3786,1252633,[All PROD][STB] Create a VCOEQA OTA DMS group ,Open,09/Aug/21 3:19 PM,sumit.alhat@vodafone.com
+Config Change,VTVQA-3664,1238672,[All PROD] [Mobile/Tablet] Main ticket to create cversion of Sprint 86 in VCOEQA DMS group,Open,30/Jul/21 1:33 PM,sumit.alhat@vodafone.com
+Config Change,VTVQA-3512,1219594,"[DE PROD] To keep ""http"" with APIGW endpoints in DE PROD BP03 version",Reopened,27/Jul/21 5:51 PM,sumit.alhat@vodafone.com
+Sub-task,VTVQA-1717,953164,[Scrubber1]New TCs for development,Open,15/Jul/21 3:45 PM,sainath.wakpate@vodafone.com
+Task,VTVQA-3335,1194849,[R6] Automation Development : Feature : STB - Legacy Features/PF31 - Kids Mode/Kids- P1 Test Set,Open,09/Jul/21 4:02 PM,sainath.wakpate@vodafone.com
+Config Change,VTVQA-3558,1225716,[CZ PROD] [STB] Create DMS configuration of Sprint 85,Open,08/Jul/21 3:43 PM,sumit.alhat@vodafone.com
+Config Change,VTVQA-3559,1225719,[All PROD] [Mobile/Tablet] Main ticket to create cversion of Sprint 85 in VCOEQA DMS group,Open,08/Jul/21 3:20 PM,sumit.alhat@vodafone.com
+Config Change,VTVQA-3608,1230177,[DE PROD][STB] STB Provisioning and Moving to corresponding VCOEQA DMS Group,Open,30/Jun/21 1:53 PM,sumit.alhat@vodafone.com
+Config Change,VTVQA-3614,1230723,[ES PROD][VSB] Provide subscriptions to VSB ,Reopened,22/Jun/21 3:56 PM,sumit.alhat@vodafone.com
+Config Change,VTVQA-3257,1187309,[ES PROD] [STB] [AutomationSTBs] OTA upgrade on ES PROD STBs in VCOEQA DMS group from Sprint 81 BP00 / BP02 to Sprint 82 BP00 / BP02 respectively,Open,17/Jun/21 5:51 PM,sumit.alhat@vodafone.com
+Task,VTVQA-3325,1194171,[VFES][Kids Themes Season Rails][Improvement] Require DMS changes to test the improvement  VFGTVMOB-10461 KidsThemes Season Rails Parental Rating improvement,Open,10/Jun/21 2:04 PM,ritika.khanduri@vodafone.com
+Bug,VTVQA-3595,1228788,[S85] [HU Prod] Playback Error MV1803 for all the channels - 403 Forbidden in manifest response.,Open,10/Jun/21 11:58 AM,deepika.thakkar@vodafone.com
+Task,VTVQA-3592,1227942,"[R6.0][Legacy]STB - Features/PF09 - Programme Info (PI, ProgramInfo)/P1 Test cases Set 1",Open,08/Jun/21 8:41 AM,sainath.wakpate@vodafone.com
+Task,VTVQA-3430,1210353,CLONE - [R6] STB Legacy : PF31 - Kids Mode/Kids- P1 Test Set: Player,Open,04/Jun/21 12:01 PM,sainath.wakpate@vodafone.com
+Config Change,VTVQA-3433,1211127,[All PROD] [Mobile/Tablet] Main ticket to create cversion of Sprint 84 in VCOEQA DMS group,Open,02/Jun/21 1:15 PM,sumit.alhat@vodafone.com
+Task,VTVQA-2162,1071123,[Adaptavist] Priority 1 Test Set for STB Features ,Open,19/May/21 4:31 PM,tapas.patra@vodafone.com
+Task,VTVQA-2665,1124751,[Adaptavist] Priority 1 Test Set for Mobile Features,Open,19/May/21 4:30 PM,tapas.patra@vodafone.com
+Task,VTVQA-1446,929748,[Test Case Modification] Test Case Modification based on Improvements,Open,17/May/21 5:15 PM,tapas.patra@vodafone.com
+Task,VTVQA-1687,948961,Cable Regionalization - Test Preparation,Reopened,11/May/21 10:47 AM,afreen.mehboobmahadik@vodafone.com
+Task,VTVQA-2952,1153457,Include recent defect findings from S79 into Automated Sanity test scripts as validation checks. ,Open,11/May/21 9:12 AM,sainath.wakpate@vodafone.com
+Task,VTVQA-3234,1182341,[R6] Automation Development : Feature : PF26 - Recommendations P1 Test Set ,In Progress,10/May/21 8:17 PM,sainath.wakpate@vodafone.com
+Config Change,VTVQA-3440,1211343,[All PROD] [STB] Main ticket for disconnecting link between RCU_Green and TV Guide,Open,29/Apr/21 3:33 PM,chengyang.song@vodafone.com
+Config Change,VTVQA-3341,1195425,[All PROD] [Mobile/Tablet] Main ticket to create cversion of Sprint 83 in VCOEQA DMS group,Open,29/Apr/21 10:31 AM,sumit.alhat@vodafone.com
+Task,VTVQA-3428,1210142,[CZ][PROD][STB] Need DMS configuration for Apps.json,Open,27/Apr/21 4:22 PM,ritika.khanduri@vodafone.com
+Task,VTVQA-3429,1210155,[HU][PROD][STB] Need DMS configuration for Apps.json,Open,27/Apr/21 4:22 PM,ritika.khanduri@vodafone.com
+Task,VTVQA-3088,1166168,[R6] STB Legacy : PF 13 Channel Line -Up,In Progress,27/Apr/21 3:22 PM,sainath.wakpate@vodafone.com
+Sub-task,VTVQA-1690,948964,Regionalization - Low Level Scenarios (LLS),Open,26/Apr/21 10:55 AM,afreen.mehboobmahadik@vodafone.com
+Config Change,VTVQA-3316,1193246,[ES PROD][VSB] Need to provision VSBs in ES PROD with NEBA,Open,13/Apr/21 9:31 AM,sumit.alhat@vodafone.com
+Config Change,VTVQA-3116,1168335,"[ES PROD][VSB] Need to provision VSBs in NEBA ES PROD, move in VCOEQA DMS group and provide mobile credentials",Reopened,12/Apr/21 10:26 AM,sumit.alhat@vodafone.com
+Sub-task,VTVQA-3380,1199199,R6.2 STB S83 - New Thyssen HW - ES,Open,08/Apr/21 5:21 PM,jorgehenrique.soaresmarques@vodafone.com
+Task,VTVQA-2674,1125118,STB Tickets (Opened by Other Teams) Need Recheck in OpCo,Open,06/Apr/21 1:08 PM,chengyang.song@vodafone.com
+Task,VTVQA-2675,1125122,Mobile Tickets (Opened by Other Teams) Need Recheck in OpCo,Open,06/Apr/21 1:08 PM,chengyang.song@vodafone.com
+Task,VTVQA-3372,1198448,[R6] STB Legacy : PF01 - Interaction Model and High-Level Navigation: Set 2,In Progress,06/Apr/21 10:58 AM,sainath.wakpate@vodafone.com
+Task,VTVQA-3382,1200608,Automate Test Cycles creation for a Sprint based on generic conventions followed while creating them manually.,Open,06/Apr/21 9:48 AM,sainath.wakpate@vodafone.com
+Config Change,VTVQA-3220,1181574,[All PROD] [Mobile/Tablet] Main ticket to create cversion of Sprint 82 in VCOEQA DMS group,Open,23/Mar/21 11:58 AM,sumit.alhat@vodafone.com
+Task,VTVQA-2256,1079745,Updates on Master Matrix sheets on DC Tool,In Progress,10/Mar/21 11:44 AM,biyyapu.ganesh@vodafone.com
+Config Change,VTVQA-2854,1139267,[NZ PROD] [Mobile/Tablet] Create DMS configuration of Sprint 79,Open,10/Mar/21 7:02 AM,sumit.kumar53@vodafone.com
+Config Change,VTVQA-3156,1172422,[All PROD] [Mobile/Tablet] Main ticket to create cversion of Sprint 81 in VCOEQA DMS group,Open,19/Feb/21 12:15 PM,sumit.alhat@vodafone.com
+Config Change,VTVQA-3140,1170525,[DE PROD] [Mobile/Tablet] Need to increase the limit of devices to mentioned account.,Reopened,18/Feb/21 7:43 PM,prathama.gaikwad@vodafone.com
+Config Change,VTVQA-3030,1160511,[All PROD] [Mobile/Tablet] Main ticket to create cversion of Sprint 80 in VCOEQA DMS group,Open,01/Feb/21 3:27 PM,sumit.alhat@vodafone.com
+Task,VTVQA-3104,1166777,[R6.1][Mobile][S80][RO] - Player,In Progress,25/Jan/21 2:37 PM,chengyang.song@vodafone.com
+Sub-task,VTVQA-3080,1165663,OpCo Test Review Sprint 80,Open,15/Jan/21 2:14 PM,chengyang.song@vodafone.com
+Epic,VTVQA-3079,1165653,OpCo Test Review,Open,15/Jan/21 10:28 AM,chengyang.song@vodafone.com
+Task,VTVQA-3066,1163686,[IT] STB Test Review Sprint 80,Open,14/Jan/21 2:32 PM,chengyang.song@vodafone.com
+Task,VTVQA-3063,1163286,[EIT] Unable to generate EIT modified stream using MediaStream tool,Open,11/Jan/21 10:47 AM,sumit.kumar53@vodafone.com
+Config Change,VTVQA-3057,1161477,[ES PROD][STB] Add STBs to VCOEQA DMS group and provide mobile credentials for the same,Open,07/Jan/21 5:55 PM,sumit.alhat@vodafone.com
+Config Change,VTVQA-3034,1160527,[DE PROD] [Mobile/Tablet] Create DMS configuration of Sprint 80,Open,31/Dec/20 11:38 AM,sumit.alhat@vodafone.com
+Config Change,VTVQA-2853,1139254,[All PROD] [Mobile/Tablet] Main ticket to create cversion of Sprint 79 in VCOEQA DMS group,Open,31/Dec/20 11:23 AM,sumit.kumar53@vodafone.com
+Task,VTVQA-2759,1131904,[DE PROD][HU PROD] Mobile playback from Pune location,Open,28/Dec/20 2:19 PM,sumit.alhat@vodafone.com
+Config Change,VTVQA-2984,1156360,"[NZ PROD][Mobile/Tablet] Adding ""IND"" value in the ""ContentPortabilityAuthorization"" parameter",Open,17/Dec/20 5:10 PM,sumit.alhat@vodafone.com
+Sub-task,VTVQA-1476,931358,[Template] Analysis of the Specifications,Open,15/Dec/20 2:48 PM,tapas.patra@vodafone.com
+Config Change,VTVQA-2813,1136077,[CZ PROD] [STB] Add STBs in VCOEQA DMS group and provide mobile credentials,Open,10/Dec/20 6:12 PM,sumit.alhat@vodafone.com
+Config Change,VTVQA-2850,1138582,[ES PROD][Mobile/Tablet] [iOS] Update OpVault URL in NagraSettings param of the DMS,Open,02/Dec/20 3:20 PM,sumit.alhat@vodafone.com
+Config Change,VTVQA-2849,1138581,[NZ PROD][Mobile/Tablet] [iOS] Update OpVault URL in NagraSettings param of the DMS,Open,17/Nov/20 12:47 PM,sumit.alhat@vodafone.com
+Config Change,VTVQA-2848,1138580,[GR PROD][Mobile/Tablet] [iOS] Update OpVault URL in NagraSettings param of the DMS,Open,17/Nov/20 12:45 PM,sumit.alhat@vodafone.com
+Config Change,VTVQA-2792,1135216,[All PROD] [Mobile/Tablet] Main ticket to create cversion of Sprint 78 in VCOEQA DMS group,Open,09/Nov/20 3:19 PM,sumit.alhat@vodafone.com
+Config Change,VTVQA-2814,1136429,[PT PROD][Mobile/Tablet] Adding devices to VCOEQA DMS group,Open,02/Nov/20 5:48 PM,sumit.alhat@vodafone.com
+Config Change,VTVQA-2815,1136430,[PT PROD][Mobile/Tablet] Adding devices to VCOEQA DMS group,Open,02/Nov/20 5:40 PM,sumit.alhat@vodafone.com
+Task,VTVQA-2784,1135179,[R6.1][Mobile][S_XY][GR] - Program Info,Reopened,02/Nov/20 4:07 PM,chengyang.song@vodafone.com
+Config Change,VTVQA-2747,1131382,[RO PROD] [STB] Assign all required subscriptions for RO PROD households,Open,30/Oct/20 8:11 PM,sumit.alhat@vodafone.com
+Task,VTVQA-2789,1135202,[R6.1][Mobile][S77B][CZ] - Interaction Model and Navigation Exploratory Test Session,In Progress,30/Oct/20 5:07 PM,chengyang.song@vodafone.com
+Config Change,VTVQA-2611,1121000,[All PROD] [Mobile/Tablet] Main ticket to create cversion of Sprint 77 in VCOEQA DMS group,Open,29/Oct/20 1:37 PM,sumit.alhat@vodafone.com
+Bug,VTVQA-2502,1106708,Visual scrubber is not related to the VOD,Open,28/Oct/20 9:17 AM,daniele.pomposiello1@vodafone.com
+Config Change,VTVQA-2687,1126035,[DE PROD] [Mobile/Tablet] Adding device to VCOEQA DMS group,Reopened,16/Oct/20 2:50 PM,sayalee.kulkarni1@vodafone.com
+Task,VTVQA-1731,954690,[Mobile] Mobile.FindElements function is not available for Appium/mobile development,Open,14/Oct/20 10:12 AM,mayur.narendranarnaware@vodafone.com
+Task,VTVQA-1733,954713,[TW3.1][Mobile] Mobile.InputText() function not working for accent characters,Open,08/Oct/20 1:52 PM,mayur.narendranarnaware@vodafone.com
+Config Change,VTVQA-2625,1121145,[All PROD] [Mobile/Tablet] Main ticket for adding devices to VCOEQA DMS group,Open,06/Oct/20 11:57 AM,sumit.alhat@vodafone.com
+Task,VTVQA-1316,912202,smoke/channel validation on mobile devices ,Open,21/Sep/20 2:10 PM,dragoscatalin.olaru@vodafone.com
+Task,VTVQA-2235,1077099,Devices Data Collection  - Behavioral and Technical data validation,Open,10/Sep/20 4:55 PM,sumit.kumar53@vodafone.com
+Task,VTVQA-1475,931357,[Template] Feature name - Test Preparation,Open,08/Sep/20 5:18 PM,tapas.patra@vodafone.com
+Sub-task,VTVQA-2490,1105456,R6.1 STB S73H HPVR Recording - DE PROD,Open,21/Aug/20 2:14 PM,mohanishkumar.patil@vodafone.com
+Bug,VTVQA-2501,1106690,Getting a black screen while zapping between OTT channel and DTT,Open,20/Aug/20 5:17 PM,daniele.pomposiello1@vodafone.com
+Sub-task,VTVQA-678,842248,metadata validation,Open,29/May/20 3:19 PM,dragoscatalin.olaru@vodafone.com
+Sub-task,VTVQA-1307,911310,[PI]Development of ALM TCs,Open,29/May/20 1:59 PM,sainath.wakpate@vodafone.com
+Sub-task,VTVQA-1301,911050,[Parental Control]Development of ALM TCs,In Progress,29/May/20 1:51 PM,sainath.wakpate@vodafone.com
+Sub-task,VTVQA-1294,911036,[KIDS]Development of ALM TCs,In Progress,29/May/20 11:12 AM,sainath.wakpate@vodafone.com
+Sub-task,VTVQA-1478,931360,[Template] Low Level Scenarios (LLS),Open,03/Apr/20 6:22 PM,tapas.patra@vodafone.com
+Sub-task,VTVQA-1477,931359,[Template] High Level Scenarios (HLS),Open,02/Apr/20 5:51 PM,tapas.patra@vodafone.com
+Sub-task,VTVQA-1285,910939,[Badging]Development of ALM TCs,In Progress,01/Apr/20 2:12 PM,sainath.wakpate@vodafone.com
+Sub-task,VTVQA-1421,927737,[R5.1][MOBILE]1003_Remove_Watch_button_EPG_PI,In Progress,01/Apr/20 2:05 PM,mayur.narendranarnaware@vodafone.com
+Task,VTVQA-1728,954532,[New capture card] The new capture cards do not support timestamp in the video recording which is captured by the StartRecording() function during execution,Open,12/Feb/20 9:00 AM,sainath.wakpate@vodafone.com
+Task,VTVQA-1282,910934,[STB]New Automation Development of ALM TCs for R6/R5/R4/R3,Open,23/Jan/20 2:11 PM,sainath.wakpate@vodafone.com
+Task,VTVQA-1461,930439,[Test case modification] Rework of test cases based on specification updates,Open,29/Nov/19 12:53 PM,tapas.patra@vodafone.com
+Task,VTVQA-621,830050,[R5.1][STB][Dev]Release 5.1 feature testcase development,Open,21/Nov/19 12:04 PM,sainath.wakpate@vodafone.com
+Task,VTVQA-582,822459,[R5.0][STB][Dev]Release 5.0 feature testcase development,In Progress,15/Nov/19 1:34 PM,sainath.wakpate@vodafone.com
+Task,VTVQA-932,877306,Kaltura D2P Improvements Validation,Open,05/Sep/19 1:45 PM,sumit.alhat@vodafone.com
+Task,VTVQA-1016,882818,further checks for defect VFGTV-16377,Open,22/Aug/19 4:24 PM,dragoscatalin.olaru@vodafone.com
+Sub-task,VTVQA-1117,892609,Voice in Kids Mode,Open,16/Aug/19 1:36 PM,ritika.khanduri@vodafone.com
+Task,VTVQA-919,876479,Maintain DMS configuration,In Progress,25/Jul/19 1:44 PM,sumit.alhat@vodafone.com
+Sub-task,VTVQA-6706,1816161,[AVSB][Release 35] Exploratory on Google assistance and search.,In Progress,08/May/24 9:55 AM,ananya.verma1@vodafone.com
+Sub-task,VTVQA-6648,1801951,R6.1 STB S108/S105D/Release 32.2.1 Multicast 4K Play Validation,Open,06/May/24 1:19 PM,francisco.rodrigues2@vodafone.com
+Task,VTVQA-6656,1805107,Exploratory on Third Party Apps.,Open,25/Apr/24 2:32 PM,ananya.verma1@vodafone.com
+Sub-task,VTVQA-4390,1330184,Consider long run test cases for automation,Open,01/Apr/24 1:47 PM,praveenkumar.singh2@vodafone.com
+Bug,VTVQA-6614,1794404,Pressing on download report had no effect; delete report deleted report,Open,27/Mar/24 3:23 PM,jorgehenrique.soaresmarques@vodafone.com
+Bug,VTVQA-6613,1794403,Cannot create report without adding Report Notes,Open,27/Mar/24 3:22 PM,jorgehenrique.soaresmarques@vodafone.com
+Sub-task,VTVQA-6603,1779710,"Filtering in the ""search keyword"" field doesn't function properly in Endpoint Catalog",Open,25/Mar/24 11:22 AM,shruti.braun@vodafone.com
+Task,VTVQA-6496,1727517,[Prod] AVSB DE Alpha samples Provisioning,Open,11/Mar/24 2:54 PM,suryakant.mandavkar@vodafone.com
+Sub-task,VTVQA-6501,1729260,S105C- DE Prod - Data Collection - Settings structure,In Progress,22/Feb/24 1:10 PM,gaurav.suramwar@vodafone.com
+Story,VTVQA-1882,979036,Development Tools Tracker,Open,15/Jan/24 3:32 PM,miguel.assuncao1@vodafone.com
+Story,VTVQA-2653,1122818,Beta Releases for internal testing,Open,15/Jan/24 3:32 PM,laukik.rbhandari@vodafone.com
+Improvement,VTVQA-3265,1187521,"Work on robustness to avoid channels with 0 EPG Events, show more informative message of possible problem root cause",Open,15/Jan/24 3:32 PM,jorgehenrique.soaresmarques@vodafone.com
+Story,VTVQA-3290,1190017,Production Releases,Open,15/Jan/24 3:32 PM,joao.franco1@vodafone.com
+Story,VTVQA-3292,1190035,Beta Releases for internal testing,Open,15/Jan/24 3:31 PM,joao.franco1@vodafone.com
+Story,VTVQA-3293,1190037,Production Releases,Open,15/Jan/24 3:31 PM,joao.franco1@vodafone.com
+Story,VTVQA-3294,1190038,Beta Releases for internal testing,Open,15/Jan/24 3:31 PM,joao.franco1@vodafone.com
+Story,VTVQA-3296,1190041,Beta Releases for internal testing,Open,15/Jan/24 3:31 PM,joao.franco1@vodafone.com
+Story,VTVQA-3297,1190043,Production Releases,Open,15/Jan/24 3:31 PM,joao.franco1@vodafone.com
+Story,VTVQA-3298,1190047,Beta Releases for internal testing,Open,15/Jan/24 3:30 PM,joao.franco1@vodafone.com
+Story,VTVQA-3299,1190048,Production Releases,Open,15/Jan/24 3:30 PM,joao.franco1@vodafone.com
+Story,VTVQA-3300,1190051,Beta Releases for internal testing,Open,15/Jan/24 3:30 PM,joao.franco1@vodafone.com
+Story,VTVQA-3301,1190052,Production Releases,Open,15/Jan/24 3:30 PM,joao.franco1@vodafone.com
+Story,VTVQA-3302,1190064,Beta Releases for internal testing,Open,15/Jan/24 3:30 PM,joao.franco1@vodafone.com
+Story,VTVQA-3303,1190065,Production Releases,Open,15/Jan/24 3:29 PM,joao.franco1@vodafone.com
+Story,VTVQA-3304,1190074,Beta Releases for internal testing,Open,15/Jan/24 3:29 PM,joao.franco1@vodafone.com
+Story,VTVQA-3305,1190076,Production Releases,Open,15/Jan/24 3:29 PM,joao.franco1@vodafone.com
+Task,VTVQA-3333,1194488,explore JIRA - Power BI real time data access ,Open,15/Jan/24 3:29 PM,dragoscatalin.olaru@vodafone.com
+Task,VTVQA-3411,1205522,Documentation: Create KMT documentation,Open,15/Jan/24 3:29 PM,jorgehenrique.soaresmarques@vodafone.com
+Story,VTVQA-3777,1250542,e2e - Workflow JIRA -> PowerBI ,Open,15/Jan/24 3:29 PM,jorgehenrique.soaresmarques@vodafone.com
+Improvement,VTVQA-3811,1253639,[mediaSpace] Export calculated fields,Open,15/Jan/24 3:29 PM,jorgehenrique.soaresmarques@vodafone.com
+Improvement,VTVQA-3812,1253640,"[mediaSpace] Export Channel name, DVB triplets (when available), time of recorded event (the one set by the user)",Open,15/Jan/24 3:29 PM,jorgehenrique.soaresmarques@vodafone.com
+Sub-task,VTVQA-4256,1318943,The entry point to the tool should be the Environment (OpCO) from which the DMS should be retrieved,Open,15/Jan/24 3:28 PM,shruti.braun@vodafone.com
+Sub-task,VTVQA-4257,1318944,The tool must handle different versions,Open,15/Jan/24 3:28 PM,shruti.braun@vodafone.com
+Sub-task,VTVQA-4258,1318946,Store snapshots (daily basis - 6:00 CET) of the DMS with a retention limit of 30 days,Open,15/Jan/24 3:28 PM,shruti.braun@vodafone.com
+Sub-task,VTVQA-4259,1318947,Add force refresh option for storing more DMS versions (per OpCo and version),Open,15/Jan/24 3:28 PM,shruti.braun@vodafone.com
+Sub-task,VTVQA-4260,1318948,Monitor the DMS of the different environments (OpCos) - default and VCOEQA groups,Open,15/Jan/24 3:28 PM,shruti.braun@vodafone.com
+Sub-task,VTVQA-4261,1318949,"Create comparison checks (default DMS to default DMS) with the current DMS with the previous day DMS (t-1), highlight changes",Open,15/Jan/24 3:28 PM,shruti.braun@vodafone.com
+Sub-task,VTVQA-4262,1318950,Alert group (via distribution list e-mail) about the changes,Open,15/Jan/24 3:28 PM,shruti.braun@vodafone.com
+Sub-task,VTVQA-4263,1318951,Check DMS correctness (DMS schema),Open,15/Jan/24 3:28 PM,shruti.braun@vodafone.com
+Sub-task,VTVQA-4264,1318972,Creation of fake serial IDs,Open,15/Jan/24 3:28 PM,shruti.braun@vodafone.com
+Story,VTVQA-4352,1328504,[Phase 2] Defining tool intelligence,Open,15/Jan/24 3:27 PM,shruti.braun@vodafone.com
+Story,VTVQA-4356,1328513,[Phase 3]Creating alert email (part 2),Open,15/Jan/24 3:27 PM,shruti.braun@vodafone.com
+Epic,VTVQA-4516,1346006,[Other] - Miscellaneous tasks,Open,15/Jan/24 3:27 PM,jorgehenrique.soaresmarques@vodafone.com
+Story,VTVQA-4517,1346009,[TestStrategy] Fix hyperlinks,Open,15/Jan/24 3:27 PM,jorgehenrique.soaresmarques@vodafone.com
+Story,VTVQA-4518,1346019,[Adaptavist] Possible to copy linked issues of previous Test Cycles?,Open,15/Jan/24 3:27 PM,jorgehenrique.soaresmarques@vodafone.com
+Story,VTVQA-4819,1384732,Beta Releases for internal testing,Open,15/Jan/24 3:27 PM,joao.franco1@vodafone.com
+Story,VTVQA-5518,1479034,[AutoTM] - Test Releases,Open,15/Jan/24 3:25 PM,joao.franco1@vodafone.com
+Task,VTVQA-5809,1546783,STB Development Task,Open,16/Nov/23 7:57 AM,meha.singh@vodafone.com
+Sub-task,VTVQA-6352,1679159,[STB][Sprint S105BA] Exploratory on Parental Control.,Open,06/Nov/23 2:11 PM,rajvardhan.chouhan@vodafone.com
+Task,VTVQA-6325,1672170,[Interaction Model and High Level Navigation]: Ticket to track Regression Development of VTV Main App for P1 test Cases [IMHLN],Open,27/Oct/23 10:14 AM,anand.kumar3@vodafone.com
+Task,VTVQA-6297,1659818,Market blockers Release 26.6,In Progress,11/Oct/23 9:30 AM,umesh.gorela@vodafone.com
+Task,VTVQA-2443,1101117,[CZ Prod] Environment limitations in CZ Prod,Open,09/Oct/23 9:56 AM,mohanishkumar.patil@vodafone.com
+Sub-task,VTVQA-6230,1638251,[R28]Exploratory Test on Player,Open,08/Sep/23 9:40 AM,mayuri.borate@vodafone.com
+Story,VTVQA-3295,1190039,Production Releases,Open,14/Jun/23 9:37 AM,joao.franco1@vodafone.com
+Task,VTVQA-2250,1078659,Adaptavist test management plugin - issues/limitations,Open,05/May/23 2:18 PM,dragoscatalin.olaru@vodafone.com
+Sub-task,VTVQA-3845,1256458,VSB performance improvements,Reopened,24/Jan/23 9:13 AM,tapas.patra@vodafone.com
+Task,VTVQA-3627,1231953,Mobile DE PROD Status_Pune Team,Open,17/Jan/23 12:07 PM,prathama.gaikwad@vodafone.com
+Task,VTVQA-5491,1474708,AVSB Script Development,Open,12/Jan/23 11:09 AM,meha.singh@vodafone.com
+Task,VTVQA-5527,1480273,/Android VSB - Features/AVSB13 - Channel Line-Up/AVSB13 - CLU - P1 Test Set,In Progress,09/Jan/23 3:11 PM,biyyapu.ganesh@vodafone.com
+Sub-task,VTVQA-5602,1491286,Sprint98 Exploratory Trick mode,Open,02/Jan/23 8:09 AM,ravina.shihare@vodafone.com
+Task,VTVQA-5562,1484999,To discuss: does it makes sense to display card names instead of just numbers?,Open,07/Dec/22 3:03 PM,jorgehenrique.soaresmarques@vodafone.com
+Task,VTVQA-5531,1480568,[STB GEN2][PT Prod] Provision of boxes in PT PROD,Open,29/Nov/22 6:50 PM,barbara.gois@vodafone.com
+Epic,VTVQA-3416,1206130,Identification of the User Journeys for implementation in the Framework,Open,15/Nov/22 1:28 PM,parag.karnik4@vodafone.com
+Config Change,VTVQA-4540,1347581,[ES PROD][VSB] On DMS : Addition of FAQ parameters in the faqDefinitionURL,Open,10/Nov/22 9:01 AM,shruti.braun@vodafone.com
+Config Change,VTVQA-4539,1347579,[ES PROD] On DMS : Addition of FAQ parameters in the faqDefinitionURL,Open,10/Nov/22 9:00 AM,shruti.braun@vodafone.com
+Task,VTVQA-5483,1471194,[Provisioning Layer Ph2] PSD queries.,Open,09/Nov/22 8:51 AM,mohammad.khan3@vodafone.com
+Sub-task,VTVQA-5233,1435328,MCAST channel Exploratory testing ,In Progress,17/Oct/22 9:55 AM,gaurav.suramwar@vodafone.com
+Task,VTVQA-5415,1461204,[TLM]: Ticket to track Regression Development of VTV Main App for P1 Test Cases(TLM),Open,14/Oct/22 3:12 PM,anand.kumar3@vodafone.com
+Sub-task,VTVQA-5411,1460231,PC_CatchUp_Age_Rated_Content,Open,12/Oct/22 2:54 PM,anand.kumar3@vodafone.com
+Task,VTVQA-5384,1456369,[Parental Controls]: Ticket to track Regression Development of VTV Main App for P1 Test Cases(Parental Controls),Open,12/Oct/22 2:53 PM,anand.kumar3@vodafone.com
+Task,VTVQA-5338,1452462,[Settings&Setup][Settings]: Ticket to track Regression Development of VTV Main App for P1 Test Cases(Settings),Open,12/Oct/22 9:48 AM,anand.kumar3@vodafone.com
+Task,VTVQA-5379,1455888,[Search]: Ticket to track Regression Development of VTV Main App for P1 Test Cases(Search),Open,10/Oct/22 1:06 PM,anand.kumar3@vodafone.com
+Sub-task,VTVQA-5385,1456370,Parental_Control_Badging,Open,04/Oct/22 9:21 AM,anand.kumar3@vodafone.com
+Task,VTVQA-5341,1452614,[Player]: Ticket to track Regression Development of VTV Main App for P1 Test Cases(Player),Open,28/Sep/22 8:39 AM,anand.kumar3@vodafone.com
+Task,VTVQA-4439,1337193,Master Technical Ticket,Open,12/Sep/22 8:16 PM,parag.karnik4@vodafone.com
+Sub-task,VTVQA-5217,1433308,[STB][S97][IT] : Kid's Parental Control ,In Progress,31/Aug/22 11:18 AM,fathima.shaik1@vodafone.com
+Config Change,VTVQA-5249,1438063,[All Prod][ATV][FTV] Main ticket to track progress of DMS changes of Sprint 44,Open,25/Aug/22 10:15 AM,omkar.patil4@vodafone.com
+Sub-task,VTVQA-5214,1433199,[STB][RO][97]: Offline Mode,Open,24/Aug/22 2:06 PM,roxana.barabas@vodafone.com
+Sub-task,VTVQA-5215,1433203,[STB][RO]: Parental control,Open,24/Aug/22 12:24 PM,roxana.barabas@vodafone.com
+Sub-task,VTVQA-5203,1432869,[VSB][S97][ES] Network,Open,23/Aug/22 4:44 PM,filipe.guerra@vodafone.com
+Sub-task,VTVQA-5240,1436625,[STB][PT] KIDS Mode (Time to bed),Open,23/Aug/22 3:11 PM,ana.rotaru1@vodafone.com
+Sub-task,VTVQA-5244,1437182,[STB][PT]Offline mode (transitions),Open,23/Aug/22 3:10 PM,ana.rotaru1@vodafone.com
+Sub-task,VTVQA-5196,1432780,[R6.1][STB][S97][CZ] HDMI-CEC,In Progress,22/Aug/22 8:48 AM,michaela.rytirova@vodafone.com
+Sub-task,VTVQA-5213,1433193,[STB][RO][97]: Player,In Progress,18/Aug/22 8:38 AM,roxana.barabas@vodafone.com
+Sub-task,VTVQA-5218,1433352,[Mobile][iOS] Player,Open,17/Aug/22 12:44 PM,ana.rotaru1@vodafone.com
+Sub-task,VTVQA-5224,1434424,[IT][S97]Program Info,Open,16/Aug/22 3:57 PM,fathima.shaik1@vodafone.com
+Sub-task,VTVQA-5200,1432786,[R6.1][STB][S97][CZ] Best episode,Open,12/Aug/22 1:20 PM,michaela.rytirova@vodafone.com
+Task,VTVQA-2323,1087523,[GR Prod] Environment limitations in GR Prod,Open,04/Aug/22 2:52 PM,mohanishkumar.patil@vodafone.com
+Task,VTVQA-4609,1355441,[VRM] - Creation of all the use cases on VRM,Open,19/Jul/22 10:51 AM,parag.karnik4@vodafone.com
+Task,VTVQA-4423,1334889,Spectrum Master ticket,Open,07/Jul/22 11:15 AM,parag.karnik4@vodafone.com
+Config Change,VTVQA-4541,1347583, [AL PROD]On DMS : Addition of FAQ parameters in the faqDefinitionURL,Open,15/Jun/22 4:31 PM,shruti.braun@vodafone.com
+Task,VTVQA-4625,1357851,[PL VCOE QA] - Master ticket for all configs and issue for Provisioning Layer ,Open,31/May/22 5:00 PM,parag.karnik4@vodafone.com
+Sub-task,VTVQA-3886,1260732,PL - Add Entitlement to domain - Non SKY,Reopened,25/May/22 11:31 PM,parag.karnik4@vodafone.com
+Task,VTVQA-4851,1386885,Ticket to track Stability Development activity on KIDS App,Open,05/May/22 2:49 PM,anand.kumar3@vodafone.com
+Task,VTVQA-3596,1228980,Mobile ES PROD Pune Test Status,Open,29/Apr/22 2:48 PM,ritika.khanduri@vodafone.com
+Sub-task,VTVQA-3570,1226217,MYTV Area population,Open,28/Apr/22 12:57 PM,parag.karnik4@vodafone.com
+Config Change,VTVQA-4537,1347576,[RO PROD] On DMS : Addition of FAQ parameters in the faqDefinitionURL,Open,06/Apr/22 1:12 PM,shruti.braun@vodafone.com
+Sub-task,VTVQA-4716,1372210,R6.1 Albania Prod STB S92B: Player & Trick modes - Exploratory,Open,05/Apr/22 1:29 PM,vikas.yadav2@vodafone.com
+Task,VTVQA-4112,1302554,PL - SKY Purchase/Cancel PPV services householdPaymentGateway.invoke,Reopened,14/Feb/22 3:35 PM,parag.karnik4@vodafone.com
+Config Change,VTVQA-4536,1347575, [HU PROD] On DMS : Addition of FAQ parameters in the faqDefinitionURL,Open,10/Feb/22 7:59 PM,shruti.braun@vodafone.com
+Task,VTVQA-4442,1337650,"{Technical Ticket} - PL - Admin Test user creation, configuration in test scripts and test verification",Reopened,25/Jan/22 2:26 PM,parag.karnik4@vodafone.com
+Task,VTVQA-4440,1337194,{Technical Ticket} Api version and getconfig correction,Open,20/Jan/22 2:31 PM,parag.karnik4@vodafone.com
+Task,VTVQA-3582,1226680,MultiQuota purchase for cloud recordings,Reopened,17/Jan/22 4:03 PM,parag.karnik4@vodafone.com
+Task,VTVQA-3520,1220799,[API Automation] - VOD Discounts,Open,17/Jan/22 4:03 PM,parag.karnik4@vodafone.com
+Sub-task,VTVQA-2408,1097655,D2P Queue Logic,Reopened,05/Jan/22 2:55 PM,tapas.patra@vodafone.com
+Sub-task,VTVQA-4323,1327575,[AVSB] To automate Sanity test cases,Open,21/Dec/21 4:26 PM,tapas.patra@vodafone.com
+Task,VTVQA-3889,1261096,PL - SKY Integration specific scenarios,Open,17/Dec/21 8:37 AM,parag.karnik4@vodafone.com
+Sub-task,VTVQA-3572,1226225,Program Information Page,Open,07/Dec/21 2:12 PM,parag.karnik4@vodafone.com
+Sub-task,VTVQA-3573,1226227,TLM Population,Open,07/Dec/21 1:46 PM,parag.karnik4@vodafone.com
+Task,VTVQA-3517,1220630,[API Automation] - User purchase Subscription via UI that is implemented using Folder implementation,Reopened,07/Dec/21 1:27 PM,parag.karnik4@vodafone.com
+Story,VTVQA-4254,1318934,"[Phase I] As a user of the DMS tool, listed requirements should be fulfilled.",Open,03/Dec/21 3:35 PM,shruti.braun@vodafone.com
+Bug,VTVQA-4238,1316380,[R6.1][VFDE][Recordings] - Button position is interchanged when trying to delete single protected episode from series,Open,29/Nov/21 9:16 AM,bipul.kumar1@vodafone.com
+Bug,VTVQA-4237,1316375,[R6.1][TV Guide] Visibility of Lock icon is not that clear when highlighting a locked channel in TV Guide,Open,29/Nov/21 9:10 AM,bipul.kumar1@vodafone.com
+Bug,VTVQA-4236,1316373,[R6.1] [Programme Info] - Metadata: “Year” and “Country” are not shown in the PI,Open,29/Nov/21 9:07 AM,bipul.kumar1@vodafone.com
+Sub-task,VTVQA-4160,1308080,New Program Information Improvement,Open,12/Nov/21 9:14 AM,bhupendra.singhbartwal@vodafone.com
+Sub-task,VTVQA-4148,1306845,App Sorting Regulatory,Open,12/Nov/21 9:13 AM,bhupendra.singhbartwal@vodafone.com
+Sub-task,VTVQA-4147,1306838,[Pause/Resume Enhancements] To automate test cases,Open,12/Nov/21 9:12 AM,bhupendra.singhbartwal@vodafone.com
+Sub-task,VTVQA-4134,1305068,[Series Recording Actions] To automate newly/existing test cases,Open,12/Nov/21 9:12 AM,praveenkumar.singh2@vodafone.com
+Task,VTVQA-3946,1269606,Automation of test cases for new features and Improvements.,In Progress,01/Nov/21 2:55 PM,tapas.patra@vodafone.com
+Sub-task,VTVQA-3530,1222254,Playback Related scenarios - Master Ticket,Open,19/Oct/21 4:29 PM,parag.karnik4@vodafone.com
+Sub-task,VTVQA-3947,1269618,[Netflix] To automate newly/existing test cases,Open,14/Oct/21 2:46 PM,tapas.patra@vodafone.com
+Task,VTVQA-2364,1092369,[RO Prod] Environment limitations in RO Prod,Open,14/Oct/21 8:25 AM,mohanishkumar.patil@vodafone.com
+Config Change,VTVQA-3909,1264142,[All Prod] [STB][VSB] Main ticket to track progress of DMS configuration of Sprint 88,Open,21/Sep/21 1:11 PM,sumit.alhat@vodafone.com
+Config Change,VTVQA-3788,1253217,[All Prod] [STB][VSB] Main ticket to track progress of DMS configuration of Sprint 87,Open,02/Sep/21 12:34 PM,sumit.alhat@vodafone.com
+Sub-task,VTVQA-2340,1090289,[R6][STB]Modification of Review TCs employing Open CV approach - Mayur,Open,20/Aug/21 11:23 AM,mayur.narendranarnaware@vodafone.com
+Task,VTVQA-3859,1258270,Recommendation checks after TIVO deployments,Open,19/Aug/21 8:55 AM,ritika.khanduri@vodafone.com
+Task,VTVQA-3579,1226256,Ad Insertion supported content Playback,Reopened,09/Aug/21 5:27 PM,parag.karnik4@vodafone.com
+Config Change,VTVQA-3704,1241751,[All Prod] [STB][VSB] Main ticket to track progress of DMS configuration of Sprint 86,Open,06/Aug/21 9:10 AM,sumit.alhat@vodafone.com
+Task,VTVQA-3780,1250972,User based/perspective scenario,Open,02/Aug/21 7:21 AM,omkar.gaikwad1@vodafone.com
+Sub-task,VTVQA-3738,1246059,New TC For Dev-[PIN_Updates_Unlocked_Event_Gets_Locked_After_Reboot/Standby/Reset][Feature: PIN Updates],Open,20/Jul/21 8:28 AM,kuldeep.singh1@vodafone.com
+Sub-task,VTVQA-3739,1246060,New TC For Dev-[PIN_Updates_Wrong PIN counter][Feature: PIN Updates],Open,20/Jul/21 8:26 AM,kuldeep.singh1@vodafone.com
+Sub-task,VTVQA-3724,1244746,[Development]: Scrubber with continuous Rewind for Live TV ,Open,15/Jul/21 3:47 PM,sanjay.kishanraochatlure@vodafone.com
+Sub-task,VTVQA-3717,1242864,New TC For Dev-[PIN_Updates_Penalty_Period_Kept_Standby/Reboot STB][Feature: PIN Updates:],Open,12/Jul/21 12:43 PM,kuldeep.singh1@vodafone.com
+Config Change,VTVQA-3548,1225694,[All Prod] [STB][VSB] Main ticket to track progress of DMS configuration of Sprint 85,Open,08/Jul/21 3:25 PM,sumit.alhat@vodafone.com
+Sub-task,VTVQA-3701,1241389,New TC For Dev-[PIN Updates_Wrong PIN_Penalty_timeout timer Over][Feature: PIN Updates:],Open,08/Jul/21 10:13 AM,kuldeep.singh1@vodafone.com
+Sub-task,VTVQA-3700,1241386,New TC For Dev-[PIN Updates_Wrong_PIN_timeout][Feature: PIN Updates:],Open,08/Jul/21 10:12 AM,kuldeep.singh1@vodafone.com
+Sub-task,VTVQA-3699,1241384,New TC For Dev-[PIN_Updates_Wrong_PIN_Penalty_Locked_Channel][Feature: PIN Updates:],Open,08/Jul/21 10:09 AM,kuldeep.singh1@vodafone.com
+Task,VTVQA-3640,1234816,Mobile S85 - VTV App [iOS],Open,01/Jul/21 12:17 PM,omkar.gaikwad1@vodafone.com
+Task,VTVQA-3374,1198463,[R6] STB Legacy : Channel Scan (OTT),Open,01/Jul/21 9:57 AM,sainath.wakpate@vodafone.com
+Sub-task,VTVQA-3605,1229434,New TC For Dev-[PIN_Updates_PIN_Change_Offline_Mode][Feature: PIN Updates:],In Progress,29/Jun/21 6:42 PM,kuldeep.singh1@vodafone.com
+Task,VTVQA-3650,1237010,KS Refresh at framework level,Open,28/Jun/21 3:50 PM,parag.karnik4@vodafone.com
+Epic,VTVQA-3413,1206105,Full documentation of the Framework as a javadoc ,Open,28/Jun/21 1:19 PM,parag.karnik4@vodafone.com
+Task,VTVQA-3638,1234373,Mobile S85 - Kids App [iOS],Open,23/Jun/21 8:28 AM,omkar.gaikwad1@vodafone.com
+Sub-task,VTVQA-3414,1206112,Framework documentation,In Progress,18/Jun/21 1:37 PM,parag.karnik4@vodafone.com
+Task,VTVQA-3628,1232037,Category to replace GetMenu,Open,16/Jun/21 4:58 PM,parag.karnik4@vodafone.com
+Sub-task,VTVQA-3602,1229212,Removal of Credentials from Test report,Open,10/Jun/21 2:19 PM,parag.karnik4@vodafone.com
+Sub-task,VTVQA-3496,1216727,Purchase related use cases,Open,04/Jun/21 12:52 PM,parag.karnik4@vodafone.com
+Sub-task,VTVQA-3571,1226220,EPG Guide population,Open,03/Jun/21 12:08 PM,parag.karnik4@vodafone.com
+Config Change,VTVQA-3449,1212793,All Prod] [STB][VSB] Main ticket to track progress of DMS configuration of Sprint 84,Open,02/Jun/21 12:39 PM,sumit.alhat@vodafone.com
+Config Change,VTVQA-2969,1155804,[All Prod] [STB] Main ticket to track progress of DMS configuration of Sprint 80,Open,21/May/21 10:44 AM,sumit.alhat@vodafone.com
+Task,VTVQA-2301,1085458,[HU Prod] Environment limitations in HU Prod,Open,18/May/21 11:07 AM,mohanishkumar.patil@vodafone.com
+Task,VTVQA-2549,1114144,[ES Prod] Environment limitations in ES Prod,Open,11/May/21 12:28 PM,mohanishkumar.patil@vodafone.com
+Task,VTVQA-2023,1056842,[PT Prod] Environment limitations in PT Prod,Reopened,11/May/21 12:20 PM,ricardo.simoes2@vodafone.com
+Task,VTVQA-2363,1092008,[IT Prod] Environment limitations in IT Prod,Open,11/May/21 12:00 PM,mohanishkumar.patil@vodafone.com
+Sub-task,VTVQA-1905,979567,Dieter:- Development of Regression Suite employing Open CV approach,In Progress,10/May/21 8:21 PM,yash.bansal2@vodafone.com
+Config Change,VTVQA-3462,1213536,[All PROD] Need to add noBlockOTTFallback under STBDisabledFeatureTableByCustomerType in Sprint 84,Open,05/May/21 2:22 PM,sumit.alhat@vodafone.com
+Config Change,VTVQA-3357,1196574,[All Prod] [STB][VSB] Main ticket to track progress of DMS configuration of Sprint 83,Open,04/May/21 9:48 AM,sumit.alhat@vodafone.com
+Sub-task,VTVQA-2556,1116263,PF36- HPVR/HPVR  Basic Tests : Set 1,Open,29/Apr/21 4:44 PM,sainath.wakpate@vodafone.com
+Epic,VTVQA-3385,1200802,API Automation Core development,Open,13/Apr/21 1:29 PM,dragoscatalin.olaru@vodafone.com
+Task,VTVQA-2892,1144044,New TC for Development[Trick mode][Metrological app],Open,12/Apr/21 9:27 AM,sanjay.kishanraochatlure@vodafone.com
+Sub-task,VTVQA-3309,1190868,R6.1 STB S82:Parental Controls- Exploratory,Open,06/Apr/21 1:08 PM,sachin.baburaoande@vodafone.com
+Sub-task,VTVQA-3381,1200067,R6.1- STB Sprint 82- VSB-  Recordings,In Progress,05/Apr/21 8:34 AM,pushkar.shamkantkulkarni@vodafone.com
+Config Change,VTVQA-3209,1181551,[All Prod] [STB][VSB] Main ticket to track progress of DMS configuration of Sprint 82,Open,25/Mar/21 2:06 PM,sumit.alhat@vodafone.com
+Config Change,VTVQA-3046,1161058,[All Prod] [STB] Main ticket to track progress of DMS configuration of Sprint 81,Open,25/Mar/21 2:06 PM,sumit.alhat@vodafone.com
+Sub-task,VTVQA-2461,1102714,CZ OpCo STB tasks,Open,18/Mar/21 4:12 PM,simona.keravuo@vodafone.com
+Task,VTVQA-2213,1076356,Discussion on new ConfigMode - 3 Development in DataCollection Tool,Open,10/Mar/21 11:44 AM,biyyapu.ganesh@vodafone.com
+Sub-task,VTVQA-2500,1106473,Implementation to login automatically on the Netflix third-party app,In Progress,08/Feb/21 2:26 PM,DieterMerken@eurofins.com
+Task,VTVQA-2866,1139576,[R6.1][S78][Data Collection] Exploratory Session on MOB platform,Open,28/Jan/21 9:00 AM,priyanka.rawat2@vodafone.com
+Task,VTVQA-3141,1170352,Not able to connect Fresh out of box DE HW with WiFi/Ethernet during FTU.,Open,27/Jan/21 3:03 PM,pankaj.patil3@vodafone.com
+Task,VTVQA-2192,1075533,[Adaptavist] Rework for STB Features,Open,22/Jan/21 8:31 AM,tapas.patra@vodafone.com
+Sub-task,VTVQA-2460,1102713,CZ OpCo Mobile tasks,Open,18/Jan/21 9:03 AM,simona.keravuo@vodafone.com
+Task,VTVQA-3041,1160644,"[R6.1] STB: Subtitles (OTT, MULTICAST, DVB-C) - Exploratory",Open,13/Jan/21 3:13 PM,prem.prakash2@vodafone.com
+Task,VTVQA-3015,1159201,[R6.1] STB: KIDS Mode - Exploratory,Open,04/Jan/21 5:54 AM,prem.prakash2@vodafone.com
+Sub-task,VTVQA-2489,1105341,R6.1 Mobile S75- Parental Control,Open,22/Dec/20 8:29 AM,atanu.choudhury@vodafone.com
+Sub-task,VTVQA-2493,1105905,R6.1 Mobile S75- On-Demand,Open,22/Dec/20 8:29 AM,atanu.choudhury@vodafone.com
+Config Change,VTVQA-2922,1148635,[All Prod] [STB] Main ticket to track progress of DMS configuration of Sprint 79 ,Open,11/Dec/20 2:21 PM,sumit.alhat@vodafone.com
+Task,VTVQA-2910,1148095,[NZ Prod] Environment limitations in NZ Prod,Open,24/Nov/20 1:58 PM,mohanishkumar.patil@vodafone.com
+Sub-task,VTVQA-2903,1146331,R6.1 STB S76D : DVB-C scan adaptations (DE and EE markets) - Exploratory,Open,19/Nov/20 1:11 PM,sachin.baburaoande@vodafone.com
+Sub-task,VTVQA-2253,1079054,HU OpCo STB tasks,Open,08/Nov/20 8:57 PM,simona.keravuo@vodafone.com
+Config Change,VTVQA-2842,1138573,[All PROD][Mobile/Tablet] [iOS] Main ticket to update OpVault URL in NagraSettings param of the DMS,Open,06/Nov/20 4:59 PM,sumit.alhat@vodafone.com
+Sub-task,VTVQA-2820,1136526,[ATP/PROD] HDMI CEC - issue,Open,04/Nov/20 11:35 AM,pushkar.shamkantkulkarni@vodafone.com
+Sub-task,VTVQA-2713,1129318,R6.1 STB S76B: Badging - Exploratory,Open,04/Nov/20 10:20 AM,sachin.baburaoande@vodafone.com
+Task,VTVQA-2607,1120916,[ATP/PROD] Stability - Black screen issue,Open,19/Oct/20 10:40 AM,sachin.baburaoande@vodafone.com
+Sub-task,VTVQA-756,861626,[R6.0] 1003 Record Expiration Badge is set to valid value ,In Progress,12/Oct/20 10:00 AM,yash.bansal2@vodafone.com
+Sub-task,VTVQA-2325,1087815,R5.1/R6 : Pending TC development from Backlog : Open CV : Mayur,Open,12/Oct/20 9:58 AM,mayur.narendranarnaware@vodafone.com
+Task,VTVQA-2685,1125666,SGG Test,Open,09/Oct/20 11:57 AM,chengyang.song@vodafone.com
+Sub-task,VTVQA-2679,1125332,Collect logs from the different OpCos - Chengyang,Open,08/Oct/20 11:41 AM,jorgehenrique.soaresmarques@vodafone.com
+Sub-task,VTVQA-2680,1125333,Analyse logs and highlight the differences - Deep Dive team (Sumit),Open,08/Oct/20 11:41 AM,jorgehenrique.soaresmarques@vodafone.com
+Sub-task,VTVQA-755,860058,[R6.0] 2001 Delete Series recording on past event ,In Progress,01/Oct/20 9:24 AM,yash.bansal2@vodafone.com
+Sub-task,VTVQA-754,860057,[R6.0] 1001 Delete recording button  on past events ,In Progress,01/Oct/20 9:22 AM,yash.bansal2@vodafone.com
+Task,VTVQA-1428,928400,[ Web TV ] Tokenization implementation for WEB TV,Open,29/Sep/20 11:35 AM,biyyapu.ganesh@vodafone.com
+Task,VTVQA-2555,1116261,[R6.1]Automation Development : feature : HPVR,Open,16/Sep/20 10:57 AM,sainath.wakpate@vodafone.com
+Sub-task,VTVQA-2485,1104028,STB S75: Stability & Robustness,Open,07/Sep/20 4:38 PM,mohanishkumar.patil@vodafone.com
+Sub-task,VTVQA-2505,1107207,R6.1 Mobile S75- Programme Info,Open,24/Aug/20 8:42 AM,atanu.choudhury@vodafone.com
+Task,VTVQA-2243,1077350,HU (Hungary) OpCo tasks,Open,13/Aug/20 3:22 PM,jorgehenrique.soaresmarques@vodafone.com
+Task,VTVQA-2459,1102712,CZ (Czech Republic) OpCo tasks,Open,13/Aug/20 3:22 PM,jorgehenrique.soaresmarques@vodafone.com
+Task,VTVQA-1774,960463,[ATP][R6.1][SEC_REDESIGN_2] Test cases updates and scenarios identification of Security Redesign Phase 2.,Reopened,13/Aug/20 7:54 AM,deepika.thakkar@vodafone.com
+Bug,VTVQA-2446,1101179,VFGTV-22418 - ,Open,06/Aug/20 4:28 PM,roxana.barabas@vodafone.com
+Bug,VTVQA-2445,1101176,Blocked due to defect: https://cps.jira.agile.vodafone.com/browse/VFGTV-22418,Open,06/Aug/20 4:26 PM,roxana.barabas@vodafone.com
+Bug,VTVQA-2444,1101175,Blocked due to defect: https://cps.jira.agile.vodafone.com/browse/VFGTV-22418,Open,06/Aug/20 4:26 PM,roxana.barabas@vodafone.com
+Sub-task,VTVQA-2252,1079053,HU OpCo Mobile tasks,Open,03/Aug/20 9:28 AM,simona.keravuo@vodafone.com
+Sub-task,VTVQA-2395,1096857,STB S743F Stability & Robustness,Open,29/Jul/20 6:33 PM,mohanishkumar.patil@vodafone.com
+Task,VTVQA-2385,1095098,[Adaptavist] Rework for Mobile Features,Open,22/Jul/20 6:04 PM,tapas.patra@vodafone.com
+Sub-task,VTVQA-2318,1086479,IT OpCo STB tasks,Open,13/Jul/20 9:45 AM,simona.keravuo@vodafone.com
+Sub-task,VTVQA-2314,1086474,RO OpCo Mobile tasks,Open,30/Jun/20 3:36 PM,simona.keravuo@vodafone.com
+Sub-task,VTVQA-2317,1086478,IT OpCo Mobile tasks,Open,30/Jun/20 9:59 AM,simona.keravuo@vodafone.com
+Task,VTVQA-2313,1086473,RO (Romania) OpCo tasks,Open,30/Jun/20 9:58 AM,jorgehenrique.soaresmarques@vodafone.com
+Task,VTVQA-2316,1086477,IT (Italy) OpCo tasks,Open,30/Jun/20 9:58 AM,jorgehenrique.soaresmarques@vodafone.com
+Sub-task,VTVQA-2315,1086475,RO OpCo STB tasks,Open,30/Jun/20 9:57 AM,simona.keravuo@vodafone.com
+Sub-task,VTVQA-2298,1084599,R6.1 STB S73 Visual Scrubber - HU Prod,Open,26/Jun/20 12:34 PM,jorgehenrique.soaresmarques@vodafone.com
+Task,VTVQA-2300,1085443,BLE/RCU pairing loss - S74 test campaing,Open,26/Jun/20 8:46 AM,jorgehenrique.soaresmarques@vodafone.com
+Sub-task,VTVQA-2297,1084598,R6.1 STB S73 Visual Scrubber - DE Prod,Open,25/Jun/20 5:02 PM,jorgehenrique.soaresmarques@vodafone.com
+Task,VTVQA-2242,1077348,DE (Germany) OpCo tasks,Open,09/Jun/20 1:43 PM,jorgehenrique.soaresmarques@vodafone.com
+Task,VTVQA-2018,1056589,[VOD List] Population of the List of VoDs by traversing through the VoD Catalogue,In Progress,30/Apr/20 1:39 PM,parag.karnik4@vodafone.com
+Story,VTVQA-1987,1046218,Smart TV/STB - Exploratory testing scenarios for Home,Open,16/Apr/20 2:47 PM,jorgehenrique.soaresmarques@vodafone.com
+Sub-task,VTVQA-1948,983935,Impementation of Registering STB device on Amazon website via Selenium,Open,03/Apr/20 9:57 AM,sainath.wakpate@vodafone.com
+Task,VTVQA-1088,890871,Re-script 2 scripts which use mixed pack subscriptions,Open,01/Apr/20 2:13 PM,sainath.wakpate@vodafone.com
+Task,VTVQA-1899,979484,Task created to validate JIRA issue type structure,Open,25/Mar/20 6:37 PM,miguel.assuncao1@vodafone.com
+Sub-task,VTVQA-1902,979489,Sub-task of Epic created to validate JIRA issue type structure,Open,25/Mar/20 6:33 PM,miguel.assuncao1@vodafone.com
+Sub-task,VTVQA-1901,979487,Sub-Task of Story created to validate JIRA issue type structure,Open,25/Mar/20 6:32 PM,miguel.assuncao1@vodafone.com
+Epic,VTVQA-1897,979450,Epic created to validate JIRA issue type structure,Open,25/Mar/20 6:07 PM,miguel.assuncao1@vodafone.com
+Task,VTVQA-1431,928782,[Test case modification] Rework of test cases identified during test execution,Open,16/Mar/20 7:18 PM,tapas.patra@vodafone.com
+Sub-task,VTVQA-752,859520,[R6.0] 2001_ Master Pin Notification,In Progress,04/Dec/19 12:10 PM,yash.bansal2@vodafone.com
+Task,VTVQA-753,859761,[R6.0][STB][Dev]Release 6.0 feature testcase development,Open,03/Dec/19 12:35 PM,sainath.wakpate@vodafone.com
+Bug,VTVQA-1443,929674,UI test 2,Reopened,21/Nov/19 4:14 PM,jorgehenrique.soaresmarques@vodafone.com
+Task,VTVQA-700,851104,All Back End Automation development tasks  tracked,Open,15/Nov/19 1:34 PM,sainath.wakpate@vodafone.com
+Sub-task,VTVQA-1004,882244,TES 13/14 - [PT-OpCo] - Inventory List,Open,16/Sep/19 12:03 PM,laukik.rbhandari@vodafone.com
+Sub-task,VTVQA-1010,882264,TES 13/14 - [PT-OpCo] Provision STB in prod/pre prod in Pune lab,Open,22/Aug/19 4:36 PM,laukik.rbhandari@vodafone.com
+Task,VTVQA-1017,882819,Create reference streams for ATP,Open,22/Aug/19 4:28 PM,jorgehenrique.soaresmarques@vodafone.com
+Task,VTVQA-813,864475,Need to fix STB's on automation server,Reopened,08/Aug/19 5:39 PM,laukik.rbhandari@vodafone.com
+Sub-task,VTVQA-1132,893487,Manual iOS sanity validation - R6.0 client with Kaltura BE 5.2 API,Open,06/Aug/19 5:24 PM,sumit.alhat@vodafone.com
+Sub-task,VTVQA-1131,893483,Manual Android sanity validation - R6.0 client with Kaltura BE 5.2 API,Open,06/Aug/19 5:24 PM,sumit.alhat@vodafone.com
+Epic,VTVQA-1082,889328,R5.1 Exploratory tests,Open,01/Aug/19 1:57 PM,jorgehenrique.soaresmarques@vodafone.com
+Sub-task,VTVQA-1009,882253,TES 13/14 - [PT-OpCo] DMS Groups and Baseline ,Open,01/Jul/19 4:16 PM,laukik.rbhandari@vodafone.com
+Sub-task,VTVQA-1003,882239,TES 13/14 - [PT-OpCo] Decide on process to Upgrade STB using OTA,Open,01/Jul/19 4:05 PM,laukik.rbhandari@vodafone.com
+Task,VTVQA-5148,1424074,Script Development for Disney Plus App,Open,30/Aug/22 1:21 PM,meha.singh@vodafone.com
+Task,VTVQA-5487,1474019,Development - WebTV Sanity TCs - Phase 2,Open,18/Oct/23 9:29 AM,sainath.wakpate@vodafone.com
+Story,VTVQA-2935,1149808,[KMT] => Beta Releases for internal testing,Open,15/Jan/24 3:32 PM,joao.franco1@vodafone.com
+Story,VTVQA-3291,1190028,[KMT] => Production Releases,Open,15/Jan/24 3:32 PM,joao.franco1@vodafone.com
+Story,VTVQA-5310,1448931,[DMS Inspector] => Production Releases,Open,15/Jan/24 3:26 PM,joao.franco1@vodafone.com
+Task,VTVQA-5501,1475837,Dummy Issue,Open,15/Jan/24 3:26 PM,joao.franco1@vodafone.com
+Sub-task,VTVQA-6326,1672175,[IMHLN]: Back Key Related Rails PI Page,Open,26/Dec/23 1:01 PM,anand.kumar3@vodafone.com
